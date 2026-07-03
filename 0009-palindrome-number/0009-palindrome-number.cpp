@@ -3,9 +3,15 @@ public:
     bool isPalindrome(int x) {
         if(x < 0) return false;
 
-        string rev = to_string(x);
-        reverse(rev.begin(),rev.end());
+        long long num = x;
+        long long rev = 0;
 
-        return stol(rev) == x;
+        while(num){
+            rev *= 10;
+            rev += num % 10;
+            num /= 10;
+        }
+
+        return rev == x;
     }
 };
