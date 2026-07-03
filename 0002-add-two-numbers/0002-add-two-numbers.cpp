@@ -31,15 +31,11 @@ public:
                 head2 = head2->next;
             }
 
-            if(sum > 9){
-                carry = 1;
-                sum = sum % 10;
-            }
-            else carry = 0;
+            carry = sum / 10;
+            sum = sum % 10;
 
-            ListNode* newNode = new ListNode(sum);
-            temp->next = newNode;
-            temp = newNode;
+            temp->next = new ListNode(sum);
+            temp = temp->next;
 
         }
         return Dummy.next;
