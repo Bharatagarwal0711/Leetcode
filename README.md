@@ -4,6 +4,7 @@
 | Q | Problem | Difficulty | Topics | Solution |
 |---|---------|------------|--------|----------|
 | 225 | Implement Stack using Queues | Easy | Stack, Queue, Design | [C++](./0225-implement-stack-using-queues/) |
+| 1   | Two Sum                      | Easy | Array, Hash Table    | [c++]()
 
 <!---LeetCode Topics Start-->
 # LeetCode Topics
