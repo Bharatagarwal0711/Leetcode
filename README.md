@@ -8,3 +8,11 @@
 | 225 | Implement Stack using Queues | Easy | Stack, Queue, Design | [C++](./0225-implement-stack-using-queues/) |
 
 
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Math
+|  |
+| ------- |
+| [0007-reverse-integer](https://github.com/Bharatagarwal0711/Leetcode/tree/master/0007-reverse-integer) |
+<!---LeetCode Topics End-->
