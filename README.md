@@ -7,6 +7,5 @@
 |  01  | Two Sum                      | Easy | Array, Hash Table    | [c++](./0001-two-sum/)
 
 <!---LeetCode Topics Start-->
-# LeetCode Topics
 
 <!---LeetCode Topics End-->
