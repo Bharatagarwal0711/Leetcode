@@ -1,54 +1,19 @@
 
 # LeetCode Solutions
 
-| Q | Problem | Difficulty | Topics | Solution |
-|---|---------|------------|--------|----------|
-|  01  | Two Sum                     | Easy | Array, Hash Table    | [C++](./0001-two-sum/)
-|  02  | Add Two Numbers             | Medium | Linked List   | [C++](./0002-add-two-numbers/)
-|  07  | Reverse Integer             | Medium | Math   | [C++](./0007-reverse-integer/)
-|  09  | Palindrome Number           | Easy | Math   | [C++](./0009-palindrome-number/)
-|  11  | Container with Most Water   | Medium | Array, Two Pointers | [C++](./0011-container-with-most-water/)
-|  14  | Longest Common Prefix       | Easy | Array, String   | [C++](./0014-longest-common-prefix/)
-| 225 | Implement Stack using Queues | Easy | Stack, Queue, Design | [C++](./0225-implement-stack-using-queues/) |
+| Q | Problem | Difficulty | Topics | Time | Space | Solution |
+|---|---------|------------|--------|------|-------|----------|
+|  01  | Two Sum                     | Easy | Array, Hash Table | O(n) | O(n) | [C++](./0001-two-sum/)
+|  02  | Add Two Numbers             | Medium | Linked List | O(max(m,n)) | O(max(m,n)) | [C++](./0002-add-two-numbers/)
+|  07  | Reverse Integer             | Medium | Math | O(log n) | O(1) | [C++](./0007-reverse-integer/)
+|  09  | Palindrome Number           | Easy | Math | O(log n) | O(1) | [C++](./0009-palindrome-number/)
+|  11  | Container with Most Water   | Medium | Array, Two Pointers | O(n) | O(1) | [C++](./0011-container-with-most-water/)
+|  14  | Longest Common Prefix       | Easy | Array, String |  O(m x n) | O(1) | [C++](./0014-longest-common-prefix/)
+|  15  | 3Sum       | Medium | Array, Two Pointer, Sorting |  O(n²) | O(1) | [C++](./0015-3Sum/)
+|  19  | Remove Nth Node from End of LL | Medium | Linked List, Two Pointer |  O(n) | O(1) | [C++](./0019-remove-nth-node-end-of-list/)
+|  20  | Valid Parentheses | Easy | Stack, String |  O(n) | O(n) | [C++](./0020-valid-parentheses/)
+|  21  | Merge Two Sorted List | Easy | Linked List |  O(m + n) | O(1) | [C++](./0021-merge-two-sorted-lists/)
+|  31  | Next Permutation | Medium | Array, Two Pointer |  O(n) | O(1) | [C++](./0031-next-permutation/)
+|  33  | Search in Rotated Sorted Array | Medium | Array, Binary Search |  O(log n) | O(1) | [C++](./0031-next-permutation/)
+| 225 | Implement Stack using Queues | Easy | Stack, Queue, Design | O(log n) | O(1) | [C++](./0225-implement-stack-using-queues/) |
 
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Array
-|  |
-| ------- |
-| [0015-3sum](https://github.com/Bharatagarwal0711/Leetcode/tree/master/0015-3sum) |
-| [0031-next-permutation](https://github.com/Bharatagarwal0711/Leetcode/tree/master/0031-next-permutation) |
-| [0033-search-in-rotated-sorted-array](https://github.com/Bharatagarwal0711/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
-## Two Pointers
-|  |
-| ------- |
-| [0015-3sum](https://github.com/Bharatagarwal0711/Leetcode/tree/master/0015-3sum) |
-| [0019-remove-nth-node-from-end-of-list](https://github.com/Bharatagarwal0711/Leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
-| [0031-next-permutation](https://github.com/Bharatagarwal0711/Leetcode/tree/master/0031-next-permutation) |
-## Sorting
-|  |
-| ------- |
-| [0015-3sum](https://github.com/Bharatagarwal0711/Leetcode/tree/master/0015-3sum) |
-## Linked List
-|  |
-| ------- |
-| [0019-remove-nth-node-from-end-of-list](https://github.com/Bharatagarwal0711/Leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
-| [0021-merge-two-sorted-lists](https://github.com/Bharatagarwal0711/Leetcode/tree/master/0021-merge-two-sorted-lists) |
-## String
-|  |
-| ------- |
-| [0020-valid-parentheses](https://github.com/Bharatagarwal0711/Leetcode/tree/master/0020-valid-parentheses) |
-## Stack
-|  |
-| ------- |
-| [0020-valid-parentheses](https://github.com/Bharatagarwal0711/Leetcode/tree/master/0020-valid-parentheses) |
-## Recursion
-|  |
-| ------- |
-| [0021-merge-two-sorted-lists](https://github.com/Bharatagarwal0711/Leetcode/tree/master/0021-merge-two-sorted-lists) |
-## Binary Search
-|  |
-| ------- |
-| [0033-search-in-rotated-sorted-array](https://github.com/Bharatagarwal0711/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
-<!---LeetCode Topics End-->
