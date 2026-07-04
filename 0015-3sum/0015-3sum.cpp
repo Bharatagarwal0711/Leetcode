@@ -14,20 +14,17 @@ public:
 
             while(j<k){
 
-                if(j>i+1 && nums[j]==nums[j-1]){
-                    j++;
-                    continue;
-                }
-                if(k != nums.size()-1 && nums[k]==nums[k+1]){
-                    k--;
-                    continue;
-                }
-
                 int sum = nums[i]+nums[j]+nums[k];
                 if(sum == 0){
                     vector<int> temp = {nums[i],nums[j],nums[k]};
                     ans.push_back(temp);
-                    j++;k--;
+
+                    j++;
+                    k--;
+
+                    while(j<k && nums[j]==nums[j-1]) j++;
+                    while(j<k && nums[k]==nums[k+1]) k--;
+
                 }
                 else if(sum<0) j++;
                 else k--;
