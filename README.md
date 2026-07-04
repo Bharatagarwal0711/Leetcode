@@ -3,13 +3,13 @@
 
 | Q | Problem | Difficulty | Topics | Time | Space | Solution |
 |---|---------|------------|--------|------|-------|----------|
-|  01  | 2Sum                     | Easy | Array, Hash Table | O(n) | O(n) | [C++](./0001-two-sum/)
+|  01  | 2 Sum                     | Easy | Array, Hash Table | O(n) | O(n) | [C++](./0001-two-sum/)
 |  02  | Add Two Numbers             | Medium | Linked List | O( max(m,n) ) | O( max(m,n) ) | [C++](./0002-add-two-numbers/)
 |  07  | Reverse Integer             | Medium | Math | O(log n) | O(1) | [C++](./0007-reverse-integer/)
 |  09  | Palindrome Number           | Easy | Math | O(log n) | O(1) | [C++](./0009-palindrome-number/)
 |  11  | Container with Most Water   | Medium | Array, Two Pointers | O(n) | O(1) | [C++](./0011-container-with-most-water/)
 |  14  | Longest Common Prefix       | Easy | Array, String |  O(m x n) | O(1) | [C++](./0014-longest-common-prefix/)
-|  15  | 3Sum       | Medium | Array, Two Pointer, Sorting |  O(n²) | O(1) | [C++](./0015-3Sum/)
+|  15  | 3 Sum       | Medium | Array, Two Pointer, Sorting |  O(n²) | O(1) | [C++](./0015-3Sum/)
 |  19  | Remove Nth Node from End of LL | Medium | Linked List, Two Pointer |  O(n) | O(1) | [C++](./0019-remove-nth-node-end-of-list/)
 |  20  | Valid Parentheses | Easy | Stack, String |  O(n) | O(n) | [C++](./0020-valid-parentheses/)
 |  21  | Merge Two Sorted List | Easy | Linked List |  O(m + n) | O(1) | [C++](./0021-merge-two-sorted-lists/)
