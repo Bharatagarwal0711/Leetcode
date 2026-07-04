@@ -3,7 +3,7 @@
 
 | Q | Problem | Difficulty | Topics | Time | Space | Solution |
 |---|---------|------------|--------|------|-------|----------|
-|  01  | Two Sum                     | Easy | Array, Hash Table | O(n) | O(n) | [C++](./0001-two-sum/)
+|  01  | 2Sum                     | Easy | Array, Hash Table | O(n) | O(n) | [C++](./0001-two-sum/)
 |  02  | Add Two Numbers             | Medium | Linked List | O( max(m,n) ) | O( max(m,n) ) | [C++](./0002-add-two-numbers/)
 |  07  | Reverse Integer             | Medium | Math | O(log n) | O(1) | [C++](./0007-reverse-integer/)
 |  09  | Palindrome Number           | Easy | Math | O(log n) | O(1) | [C++](./0009-palindrome-number/)
