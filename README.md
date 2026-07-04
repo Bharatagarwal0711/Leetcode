@@ -19,6 +19,7 @@
 | ------- |
 | [0015-3sum](https://github.com/Bharatagarwal0711/Leetcode/tree/master/0015-3sum) |
 | [0031-next-permutation](https://github.com/Bharatagarwal0711/Leetcode/tree/master/0031-next-permutation) |
+| [0033-search-in-rotated-sorted-array](https://github.com/Bharatagarwal0711/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -46,4 +47,8 @@
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Bharatagarwal0711/Leetcode/tree/master/0021-merge-two-sorted-lists) |
+## Binary Search
+|  |
+| ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/Bharatagarwal0711/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 <!---LeetCode Topics End-->
