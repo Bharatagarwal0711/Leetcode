@@ -36,6 +36,7 @@
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Bharatagarwal0711/Leetcode/tree/master/0023-merge-k-sorted-lists) |
+| [0061-rotate-list](https://github.com/Bharatagarwal0711/Leetcode/tree/master/0061-rotate-list) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -73,4 +74,8 @@
 | ------- |
 | [0054-spiral-matrix](https://github.com/Bharatagarwal0711/Leetcode/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/Bharatagarwal0711/Leetcode/tree/master/0059-spiral-matrix-ii) |
+## Two Pointers
+|  |
+| ------- |
+| [0061-rotate-list](https://github.com/Bharatagarwal0711/Leetcode/tree/master/0061-rotate-list) |
 <!---LeetCode Topics End-->
