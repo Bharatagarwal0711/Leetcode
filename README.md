@@ -17,3 +17,15 @@
 |  33  | Search in Rotated Sorted Array | Medium | Array, Binary Search |  O(log n) | O(1) | [C++](./0031-next-permutation/)
 | 225 | Implement Stack using Queues | Easy | Stack, Queue, Design | O(log n) | O(1) | [C++](./0225-implement-stack-using-queues/) |
 
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Bharatagarwal0711/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+## Binary Search
+|  |
+| ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Bharatagarwal0711/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+<!---LeetCode Topics End-->
