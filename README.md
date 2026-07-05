@@ -25,6 +25,7 @@
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Bharatagarwal0711/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0048-rotate-image](https://github.com/Bharatagarwal0711/Leetcode/tree/master/0048-rotate-image) |
+| [0053-maximum-subarray](https://github.com/Bharatagarwal0711/Leetcode/tree/master/0053-maximum-subarray) |
 ## Binary Search
 |  |
 | ------- |
@@ -37,6 +38,7 @@
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Bharatagarwal0711/Leetcode/tree/master/0023-merge-k-sorted-lists) |
+| [0053-maximum-subarray](https://github.com/Bharatagarwal0711/Leetcode/tree/master/0053-maximum-subarray) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -58,4 +60,8 @@
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/Bharatagarwal0711/Leetcode/tree/master/0050-powx-n) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/Bharatagarwal0711/Leetcode/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
