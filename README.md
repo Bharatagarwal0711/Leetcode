@@ -24,6 +24,7 @@
 |  |
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Bharatagarwal0711/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0048-rotate-image](https://github.com/Bharatagarwal0711/Leetcode/tree/master/0048-rotate-image) |
 ## Binary Search
 |  |
 | ------- |
@@ -44,4 +45,12 @@
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Bharatagarwal0711/Leetcode/tree/master/0023-merge-k-sorted-lists) |
+## Math
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/Bharatagarwal0711/Leetcode/tree/master/0048-rotate-image) |
+## Matrix
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/Bharatagarwal0711/Leetcode/tree/master/0048-rotate-image) |
 <!---LeetCode Topics End-->
