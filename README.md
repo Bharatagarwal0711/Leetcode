@@ -32,6 +32,7 @@
 |  |
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Bharatagarwal0711/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0069-sqrtx](https://github.com/Bharatagarwal0711/Leetcode/tree/master/0069-sqrtx) |
 ## Linked List
 |  |
 | ------- |
@@ -55,6 +56,7 @@
 | ------- |
 | [0048-rotate-image](https://github.com/Bharatagarwal0711/Leetcode/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/Bharatagarwal0711/Leetcode/tree/master/0050-powx-n) |
+| [0069-sqrtx](https://github.com/Bharatagarwal0711/Leetcode/tree/master/0069-sqrtx) |
 ## Matrix
 |  |
 | ------- |
