@@ -49,8 +49,13 @@
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Bharatagarwal0711/Leetcode/tree/master/0048-rotate-image) |
+| [0050-powx-n](https://github.com/Bharatagarwal0711/Leetcode/tree/master/0050-powx-n) |
 ## Matrix
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Bharatagarwal0711/Leetcode/tree/master/0048-rotate-image) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/Bharatagarwal0711/Leetcode/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
