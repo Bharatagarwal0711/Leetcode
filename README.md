@@ -26,6 +26,7 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Bharatagarwal0711/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0048-rotate-image](https://github.com/Bharatagarwal0711/Leetcode/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/Bharatagarwal0711/Leetcode/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/Bharatagarwal0711/Leetcode/tree/master/0054-spiral-matrix) |
 ## Binary Search
 |  |
 | ------- |
@@ -56,6 +57,7 @@
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Bharatagarwal0711/Leetcode/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/Bharatagarwal0711/Leetcode/tree/master/0054-spiral-matrix) |
 ## Recursion
 |  |
 | ------- |
@@ -64,4 +66,8 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Bharatagarwal0711/Leetcode/tree/master/0053-maximum-subarray) |
+## Simulation
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/Bharatagarwal0711/Leetcode/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
