@@ -41,3 +41,19 @@
 | 848 | Shifting Letters | Medium | Array, String, Prefix Sum | O(n) | O(1) | [C++](./0848-shifting-letters/) 
 | 2553 | Seperate the Digits in Array | Easy | String, Array | O(d) | O(1) | [C++](./2553-seperate-the-digits-in-an-array/) 
 
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Tree
+|  |
+| ------- |
+| [0543-diameter-of-binary-tree](https://github.com/Bharatagarwal0711/Leetcode/tree/master/0543-diameter-of-binary-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [0543-diameter-of-binary-tree](https://github.com/Bharatagarwal0711/Leetcode/tree/master/0543-diameter-of-binary-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0543-diameter-of-binary-tree](https://github.com/Bharatagarwal0711/Leetcode/tree/master/0543-diameter-of-binary-tree) |
+<!---LeetCode Topics End-->
