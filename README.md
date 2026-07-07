@@ -41,6 +41,7 @@
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Bharatagarwal0711/Leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/Bharatagarwal0711/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0848-shifting-letters](https://github.com/Bharatagarwal0711/Leetcode/tree/master/0848-shifting-letters) |
+| [2553-separate-the-digits-in-an-array](https://github.com/Bharatagarwal0711/Leetcode/tree/master/2553-separate-the-digits-in-an-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -82,4 +83,8 @@
 |  |
 | ------- |
 | [0848-shifting-letters](https://github.com/Bharatagarwal0711/Leetcode/tree/master/0848-shifting-letters) |
+## Simulation
+|  |
+| ------- |
+| [2553-separate-the-digits-in-an-array](https://github.com/Bharatagarwal0711/Leetcode/tree/master/2553-separate-the-digits-in-an-array) |
 <!---LeetCode Topics End-->
