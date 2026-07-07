@@ -26,7 +26,7 @@
 |  61  |  Rotate List | Medium | Linked List, Two Pointer |  O(n) | O(1) | [C++](./0061-rotate-list/)
 |  69  |  Sqrt x | Easy | Math, Binary Search |  O(log x) | O(1) | [C++](./0069-sqrtx/)
 |  73  |  Set Matrix Zeros | Medium | Array, Matrix |  O(mn) | O(m + n) | [C++](./0073-set-matrix-zeros/)
-|  74  |  Search a 2D Matrix | Medium | Array, Matrix, Binary Search |  O( log mn ) | O(1) | [C++](./0074-search-a-2d-matrix/)
+|  74  |  Search a 2D Matrix | Medium | Array, Matrix, Binary Search |  O(log mn) | O(1) | [C++](./0074-search-a-2d-matrix/)
 |  75  |  Sort Colors | Medium | Array, Two Pointer, Sorting |  O(n) | O(1) | [C++](./0075-sort-colors/)
 |  81  |  Search in Rotated Sorted Array II | Medium | Array, Binary Search |  O(log n) | O(1) | [C++](./0081-search-in-rotated-sorted-array-ii/)
 |  82  |  Remove Duplicates From Sorted List II | Medium | Linked List, Two Pointer |  O(n) | O(1) | [C++](./0082-remove-duplicates-from-sorted-list-ii/)
