@@ -1,5 +1,8 @@
 
-# LeetCode Solutions
+# LeetCode 
+### Easy 10
+### Medium 21
+### Hard 1
 
 | Q | Problem | Difficulty | Topics | Time | Space | Solution |
 |---|---------|------------|--------|------|-------|----------|
