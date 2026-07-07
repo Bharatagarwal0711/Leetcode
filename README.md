@@ -36,6 +36,7 @@
 | ------- |
 | [0049-group-anagrams](https://github.com/Bharatagarwal0711/Leetcode/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/Bharatagarwal0711/Leetcode/tree/master/0073-set-matrix-zeroes) |
+| [0074-search-a-2d-matrix](https://github.com/Bharatagarwal0711/Leetcode/tree/master/0074-search-a-2d-matrix) |
 ## Hash Table
 |  |
 | ------- |
@@ -53,4 +54,9 @@
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/Bharatagarwal0711/Leetcode/tree/master/0073-set-matrix-zeroes) |
+| [0074-search-a-2d-matrix](https://github.com/Bharatagarwal0711/Leetcode/tree/master/0074-search-a-2d-matrix) |
+## Binary Search
+|  |
+| ------- |
+| [0074-search-a-2d-matrix](https://github.com/Bharatagarwal0711/Leetcode/tree/master/0074-search-a-2d-matrix) |
 <!---LeetCode Topics End-->
