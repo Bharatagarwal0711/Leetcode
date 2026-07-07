@@ -37,6 +37,7 @@
 | [0049-group-anagrams](https://github.com/Bharatagarwal0711/Leetcode/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/Bharatagarwal0711/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Bharatagarwal0711/Leetcode/tree/master/0074-search-a-2d-matrix) |
+| [0075-sort-colors](https://github.com/Bharatagarwal0711/Leetcode/tree/master/0075-sort-colors) |
 ## Hash Table
 |  |
 | ------- |
@@ -50,6 +51,7 @@
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/Bharatagarwal0711/Leetcode/tree/master/0049-group-anagrams) |
+| [0075-sort-colors](https://github.com/Bharatagarwal0711/Leetcode/tree/master/0075-sort-colors) |
 ## Matrix
 |  |
 | ------- |
@@ -59,4 +61,8 @@
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/Bharatagarwal0711/Leetcode/tree/master/0074-search-a-2d-matrix) |
+## Two Pointers
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/Bharatagarwal0711/Leetcode/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
