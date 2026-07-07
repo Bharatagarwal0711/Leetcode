@@ -13,7 +13,7 @@ public:
             mp[temp].push_back(str);
         }
 
-        for(auto str: mp) ans.push_back(str.second);
+        for(auto &it: mp) ans.push_back(it.second);
 
         return ans;
     }
