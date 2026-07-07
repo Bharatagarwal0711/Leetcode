@@ -58,6 +58,7 @@
 | [0001-two-sum](https://github.com/Bharatagarwal0711/Leetcode/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/Bharatagarwal0711/Leetcode/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/Bharatagarwal0711/Leetcode/tree/master/0014-longest-common-prefix) |
+| [0015-3sum](https://github.com/Bharatagarwal0711/Leetcode/tree/master/0015-3sum) |
 ## Hash Table
 |  |
 | ------- |
@@ -80,6 +81,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Bharatagarwal0711/Leetcode/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/Bharatagarwal0711/Leetcode/tree/master/0015-3sum) |
 ## Greedy
 |  |
 | ------- |
@@ -92,4 +94,8 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Bharatagarwal0711/Leetcode/tree/master/0014-longest-common-prefix) |
+## Sorting
+|  |
+| ------- |
+| [0015-3sum](https://github.com/Bharatagarwal0711/Leetcode/tree/master/0015-3sum) |
 <!---LeetCode Topics End-->
