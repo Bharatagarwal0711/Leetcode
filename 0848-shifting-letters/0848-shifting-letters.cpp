@@ -11,10 +11,9 @@ public:
         }   
 
         for(int i=0;i<size;i++){
-            int ch = s[i]-97;
-
-            ch = (ch + shifts[i] % 26) % 26;
-            s[i] = char(ch+97);
+            int ch = s[i]-'a';
+            ch = (ch + shifts[i]) % 26;
+            s[i] = char(ch+'a');
         }   
         return s;
 
