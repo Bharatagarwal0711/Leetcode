@@ -39,6 +39,7 @@
 | [0074-search-a-2d-matrix](https://github.com/Bharatagarwal0711/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/Bharatagarwal0711/Leetcode/tree/master/0075-sort-colors) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Bharatagarwal0711/Leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0088-merge-sorted-array](https://github.com/Bharatagarwal0711/Leetcode/tree/master/0088-merge-sorted-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -53,6 +54,7 @@
 | ------- |
 | [0049-group-anagrams](https://github.com/Bharatagarwal0711/Leetcode/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/Bharatagarwal0711/Leetcode/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/Bharatagarwal0711/Leetcode/tree/master/0088-merge-sorted-array) |
 ## Matrix
 |  |
 | ------- |
@@ -68,6 +70,7 @@
 | ------- |
 | [0075-sort-colors](https://github.com/Bharatagarwal0711/Leetcode/tree/master/0075-sort-colors) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Bharatagarwal0711/Leetcode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
+| [0088-merge-sorted-array](https://github.com/Bharatagarwal0711/Leetcode/tree/master/0088-merge-sorted-array) |
 ## Linked List
 |  |
 | ------- |
