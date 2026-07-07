@@ -1,8 +1,8 @@
 
 # LeetCode 
-### Easy 10  
-### Medium 21  
-### Hard 1
+### Easy :- 10  
+### Medium :- 21  
+### Hard :- 1
 
 
 
