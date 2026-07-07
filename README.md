@@ -72,4 +72,5 @@
 |  |
 | ------- |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Bharatagarwal0711/Leetcode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
+| [0083-remove-duplicates-from-sorted-list](https://github.com/Bharatagarwal0711/Leetcode/tree/master/0083-remove-duplicates-from-sorted-list) |
 <!---LeetCode Topics End-->
