@@ -67,4 +67,9 @@
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Bharatagarwal0711/Leetcode/tree/master/0075-sort-colors) |
+| [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Bharatagarwal0711/Leetcode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
+## Linked List
+|  |
+| ------- |
+| [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Bharatagarwal0711/Leetcode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 <!---LeetCode Topics End-->
