@@ -40,6 +40,7 @@
 | [0075-sort-colors](https://github.com/Bharatagarwal0711/Leetcode/tree/master/0075-sort-colors) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Bharatagarwal0711/Leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/Bharatagarwal0711/Leetcode/tree/master/0088-merge-sorted-array) |
+| [0848-shifting-letters](https://github.com/Bharatagarwal0711/Leetcode/tree/master/0848-shifting-letters) |
 ## Hash Table
 |  |
 | ------- |
@@ -49,6 +50,7 @@
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/Bharatagarwal0711/Leetcode/tree/master/0049-group-anagrams) |
+| [0848-shifting-letters](https://github.com/Bharatagarwal0711/Leetcode/tree/master/0848-shifting-letters) |
 ## Sorting
 |  |
 | ------- |
@@ -76,4 +78,8 @@
 | ------- |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Bharatagarwal0711/Leetcode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Bharatagarwal0711/Leetcode/tree/master/0083-remove-duplicates-from-sorted-list) |
+## Prefix Sum
+|  |
+| ------- |
+| [0848-shifting-letters](https://github.com/Bharatagarwal0711/Leetcode/tree/master/0848-shifting-letters) |
 <!---LeetCode Topics End-->
