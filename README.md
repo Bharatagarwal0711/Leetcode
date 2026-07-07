@@ -38,6 +38,7 @@
 | [0073-set-matrix-zeroes](https://github.com/Bharatagarwal0711/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Bharatagarwal0711/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/Bharatagarwal0711/Leetcode/tree/master/0075-sort-colors) |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/Bharatagarwal0711/Leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -61,6 +62,7 @@
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/Bharatagarwal0711/Leetcode/tree/master/0074-search-a-2d-matrix) |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/Bharatagarwal0711/Leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 ## Two Pointers
 |  |
 | ------- |
