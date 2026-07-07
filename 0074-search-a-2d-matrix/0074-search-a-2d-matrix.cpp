@@ -6,13 +6,14 @@ public:
 
         int low = 0;
         int high = rows*cols-1;
+        int mid,r,c;
 
         while(low<=high){
 
-            int mid = low + (high-low)/2;
+            mid = low + (high-low)/2;
 
-            int r = mid / cols;
-            int c = mid % cols;
+            r = mid / cols;
+            c = mid % cols;
 
             if(matrix[r][c] == target) return true;
             else if(matrix[r][c]>target) high = mid-1;
