@@ -18,73 +18,22 @@
 |  33  | Search in Rotated Sorted Array | Medium | Array, Binary Search |  O(log n) | O(1) | [C++](./0033-search-in-rotated-sorted-array/)
 |  34  | First and Last Position of element in Sorted Array | Medium | Array, Binary Search |  O(log n) | O(1) | [C++](./0034-find-first-and-last-position-of-element-in-sorted-array/)
 |  48  |  Rotate Image | Medium | Array, Math, Matrix |  O(n²) | O(1) | [C++](./0048-rotate-image/)
+|  49  |  Group Anagram | Medium | String, Hash Table, Sorting |  O(n x klog k) | O(n x k) | [C++](./0049-group-anagrams/)
 |  50  |  Power xn | Medium | Math, Recursion |  O(log n) | O(log n) | [C++](./0050-powx-n/)
 |  53  |  Maximun Subarray | Medium | Array, DP |  O(n) | O(1) | [C++](./0053-maximum-subarray/)
 |  54  |  Spiral Matirx | Medium | Array, Matrix |  O(m x n) | O(1) | [C++](./0054-spiral-matrix/)
 |  59  |  Spiral Matirx II | Medium | Array, Matrix |  O(n²) | O(1) | [C++](./0059-spiral-matrix-ii/)
 |  61  |  Rotate List | Medium | Linked List, Two Pointer |  O(n) | O(1) | [C++](./0061-rotate-list/)
 |  69  |  Sqrt x | Easy | Math, Binary Search |  O(log x) | O(1) | [C++](./0069-sqrtx/)
-| 225 | Implement Stack using Queues | Easy | Stack, Queue, Design | O(log n) | O(1) | [C++](./0225-implement-stack-using-queues/) |
+|  73  |  Set Matrix Zeros | Medium | Array, Matrix |  O(m x n) | O(m + n) | [C++](./0073-set-matrix-zeros/)
+|  74  |  Search a 2D Matrix | Medium | Array, Matrix, Binary Search |  O( log(m x n) ) | O(1) | [C++](./0074-search-a-2d-matrix/)
+|  75  |  Sort Colors | Medium | Array, Two Pointer, Sorting |  O(n) | O(1) | [C++](./0075-sort-colors/)
+|  81  |  Search in Rotated Sorted Array II | Medium | Array, Binary Search |  O(log n) | O(1) | [C++](./0081-search-in-rotated-sorted-array-ii/)
+|  82  |  Remove Duplicates From Sorted List II | Medium | Linked List, Two Pointer |  O(n) | O(1) | [C++](./0082-remove-duplicates-from-sorted-list-ii/)
+|  83  | Remove Duplicates From Sorted List | Easy | Linked List |  O(n) | O(1) | [C++](./0083-remove-duplicates-from-sorted-list/)
+|  88  | Merge Sorted Array | Easy | Array, Two Pointer |  O(m + n) | O(1) | [C++](./0088-merge-sorted-array/)
+| 225 | Implement Stack using Queues | Easy | Stack, Queue, Design | O(log n) | O(1) | [C++](./0225-implement-stack-using-queues/) 
+| 848 | Shifting Letters | Medium | Array, String, Prefix Sum | O(n) | O(1) | [C++](./0848-shifting-letters/) 
+| 2553 | Seperate the Digits in Array | Easy | String, Array | O(d) | O(1) | [C++](./2553-seperate-the-digits-in-an-array/) 
 
 
-
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Array
-|  |
-| ------- |
-| [0049-group-anagrams](https://github.com/Bharatagarwal0711/Leetcode/tree/master/0049-group-anagrams) |
-| [0073-set-matrix-zeroes](https://github.com/Bharatagarwal0711/Leetcode/tree/master/0073-set-matrix-zeroes) |
-| [0074-search-a-2d-matrix](https://github.com/Bharatagarwal0711/Leetcode/tree/master/0074-search-a-2d-matrix) |
-| [0075-sort-colors](https://github.com/Bharatagarwal0711/Leetcode/tree/master/0075-sort-colors) |
-| [0081-search-in-rotated-sorted-array-ii](https://github.com/Bharatagarwal0711/Leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
-| [0088-merge-sorted-array](https://github.com/Bharatagarwal0711/Leetcode/tree/master/0088-merge-sorted-array) |
-| [0848-shifting-letters](https://github.com/Bharatagarwal0711/Leetcode/tree/master/0848-shifting-letters) |
-| [2553-separate-the-digits-in-an-array](https://github.com/Bharatagarwal0711/Leetcode/tree/master/2553-separate-the-digits-in-an-array) |
-## Hash Table
-|  |
-| ------- |
-| [0049-group-anagrams](https://github.com/Bharatagarwal0711/Leetcode/tree/master/0049-group-anagrams) |
-| [0073-set-matrix-zeroes](https://github.com/Bharatagarwal0711/Leetcode/tree/master/0073-set-matrix-zeroes) |
-## String
-|  |
-| ------- |
-| [0049-group-anagrams](https://github.com/Bharatagarwal0711/Leetcode/tree/master/0049-group-anagrams) |
-| [0848-shifting-letters](https://github.com/Bharatagarwal0711/Leetcode/tree/master/0848-shifting-letters) |
-## Sorting
-|  |
-| ------- |
-| [0049-group-anagrams](https://github.com/Bharatagarwal0711/Leetcode/tree/master/0049-group-anagrams) |
-| [0075-sort-colors](https://github.com/Bharatagarwal0711/Leetcode/tree/master/0075-sort-colors) |
-| [0088-merge-sorted-array](https://github.com/Bharatagarwal0711/Leetcode/tree/master/0088-merge-sorted-array) |
-## Matrix
-|  |
-| ------- |
-| [0073-set-matrix-zeroes](https://github.com/Bharatagarwal0711/Leetcode/tree/master/0073-set-matrix-zeroes) |
-| [0074-search-a-2d-matrix](https://github.com/Bharatagarwal0711/Leetcode/tree/master/0074-search-a-2d-matrix) |
-## Binary Search
-|  |
-| ------- |
-| [0074-search-a-2d-matrix](https://github.com/Bharatagarwal0711/Leetcode/tree/master/0074-search-a-2d-matrix) |
-| [0081-search-in-rotated-sorted-array-ii](https://github.com/Bharatagarwal0711/Leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
-## Two Pointers
-|  |
-| ------- |
-| [0075-sort-colors](https://github.com/Bharatagarwal0711/Leetcode/tree/master/0075-sort-colors) |
-| [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Bharatagarwal0711/Leetcode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
-| [0088-merge-sorted-array](https://github.com/Bharatagarwal0711/Leetcode/tree/master/0088-merge-sorted-array) |
-## Linked List
-|  |
-| ------- |
-| [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Bharatagarwal0711/Leetcode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
-| [0083-remove-duplicates-from-sorted-list](https://github.com/Bharatagarwal0711/Leetcode/tree/master/0083-remove-duplicates-from-sorted-list) |
-## Prefix Sum
-|  |
-| ------- |
-| [0848-shifting-letters](https://github.com/Bharatagarwal0711/Leetcode/tree/master/0848-shifting-letters) |
-## Simulation
-|  |
-| ------- |
-| [2553-separate-the-digits-in-an-array](https://github.com/Bharatagarwal0711/Leetcode/tree/master/2553-separate-the-digits-in-an-array) |
-<!---LeetCode Topics End-->
