@@ -64,6 +64,7 @@
 |  |
 | ------- |
 | [0086-partition-list](https://github.com/Bharatagarwal0711/Leetcode/tree/master/0086-partition-list) |
+| [0125-valid-palindrome](https://github.com/Bharatagarwal0711/Leetcode/tree/master/0125-valid-palindrome) |
 ## Array
 |  |
 | ------- |
@@ -76,4 +77,8 @@
 | [0118-pascals-triangle](https://github.com/Bharatagarwal0711/Leetcode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Bharatagarwal0711/Leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Bharatagarwal0711/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+## String
+|  |
+| ------- |
+| [0125-valid-palindrome](https://github.com/Bharatagarwal0711/Leetcode/tree/master/0125-valid-palindrome) |
 <!---LeetCode Topics End-->
