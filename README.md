@@ -56,4 +56,12 @@
 |  |
 | ------- |
 | [0543-diameter-of-binary-tree](https://github.com/Bharatagarwal0711/Leetcode/tree/master/0543-diameter-of-binary-tree) |
+## Linked List
+|  |
+| ------- |
+| [0086-partition-list](https://github.com/Bharatagarwal0711/Leetcode/tree/master/0086-partition-list) |
+## Two Pointers
+|  |
+| ------- |
+| [0086-partition-list](https://github.com/Bharatagarwal0711/Leetcode/tree/master/0086-partition-list) |
 <!---LeetCode Topics End-->
