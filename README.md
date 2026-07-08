@@ -62,12 +62,14 @@
 | [0086-partition-list](https://github.com/Bharatagarwal0711/Leetcode/tree/master/0086-partition-list) |
 | [0138-copy-list-with-random-pointer](https://github.com/Bharatagarwal0711/Leetcode/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/Bharatagarwal0711/Leetcode/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/Bharatagarwal0711/Leetcode/tree/master/0142-linked-list-cycle-ii) |
 ## Two Pointers
 |  |
 | ------- |
 | [0086-partition-list](https://github.com/Bharatagarwal0711/Leetcode/tree/master/0086-partition-list) |
 | [0125-valid-palindrome](https://github.com/Bharatagarwal0711/Leetcode/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/Bharatagarwal0711/Leetcode/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/Bharatagarwal0711/Leetcode/tree/master/0142-linked-list-cycle-ii) |
 ## Array
 |  |
 | ------- |
@@ -94,4 +96,5 @@
 | ------- |
 | [0138-copy-list-with-random-pointer](https://github.com/Bharatagarwal0711/Leetcode/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/Bharatagarwal0711/Leetcode/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/Bharatagarwal0711/Leetcode/tree/master/0142-linked-list-cycle-ii) |
 <!---LeetCode Topics End-->
