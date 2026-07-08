@@ -60,6 +60,7 @@
 |  |
 | ------- |
 | [0086-partition-list](https://github.com/Bharatagarwal0711/Leetcode/tree/master/0086-partition-list) |
+| [0138-copy-list-with-random-pointer](https://github.com/Bharatagarwal0711/Leetcode/tree/master/0138-copy-list-with-random-pointer) |
 ## Two Pointers
 |  |
 | ------- |
@@ -86,4 +87,8 @@
 |  |
 | ------- |
 | [0136-single-number](https://github.com/Bharatagarwal0711/Leetcode/tree/master/0136-single-number) |
+## Hash Table
+|  |
+| ------- |
+| [0138-copy-list-with-random-pointer](https://github.com/Bharatagarwal0711/Leetcode/tree/master/0138-copy-list-with-random-pointer) |
 <!---LeetCode Topics End-->
