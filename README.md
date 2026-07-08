@@ -1,7 +1,7 @@
 
 # LeetCode 
-### Easy :- 10  
-### Medium :- 21  
+### Easy :- 17  
+### Medium :- 24  
 ### Hard :- 1
 
 
@@ -36,65 +36,18 @@
 |  81  |  Search in Rotated Sorted Array II | Medium | Array, Binary Search |  O(log n) | O(1) | [C++](./0081-search-in-rotated-sorted-array-ii/)
 |  82  |  Remove Duplicates From Sorted List II | Medium | Linked List, Two Pointer |  O(n) | O(1) | [C++](./0082-remove-duplicates-from-sorted-list-ii/)
 |  83  | Remove Duplicates From Sorted List | Easy | Linked List |  O(n) | O(1) | [C++](./0083-remove-duplicates-from-sorted-list/)
+|  86  | Partition List | Medium | Linked List, Two Pointer |  O(n) | O(1) | [C++](./0086-partition-list/)
 |  88  | Merge Sorted Array | Easy | Array, Two Pointer |  O(m + n) | O(1) | [C++](./0088-merge-sorted-array/)
+| 118 | Pascal's Triangle | Easy | Array, DP |  O(n²) | O(1) | [C++](./0118-pasacals-triangle/)
+| 119 | Pascal's Triangle II | Easy | Array, DP |  O(n²) | O(n) | [C++](./0119-pasacals-triangle-ii/)
+| 121 | Best Time to Buy and Sell Stock | Easy | Array, DP |  O(n) | O(1) | [C++](./0121-best-time-to-buy-and-sell-stock/)
+| 125 | Valid Palindrome | Easy | String, Two Pointer |  O(n) | O(1) | [C++](./0125-valid-palindrome/)
+| 136 | Single Number | Easy | Bit Manipulation, Array |  O(n) | O(1) | [C++](./0136-single-number/)
+| 138 | Copy List with Random Pointer | Medium | Hash Table, Linked List |  O(n) | O(n) | [C++](./0138-copy-list-with-random-pointer/)
+| 141 | Linked List Cycle | Easy | Linked List,Two Pointer |  O(n) | O(1) | [C++](./0141-linked-list-cycle/)
+| 142 | Linked List Cycle II | Medium | Linked List,Two Pointer |  O(n) | O(1) | [C++](./0142-linked-list-cycle-ii/)
 | 225 | Implement Stack using Queues | Easy | Stack, Queue, Design | O(log n) | O(1) | [C++](./0225-implement-stack-using-queues/) 
 | 848 | Shifting Letters | Medium | Array, String, Prefix Sum | O(n) | O(1) | [C++](./0848-shifting-letters/) 
 | 2553 | Seperate the Digits in Array | Easy | String, Array | O(d) | O(1) | [C++](./2553-seperate-the-digits-in-an-array/) 
 
 
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Tree
-|  |
-| ------- |
-| [0543-diameter-of-binary-tree](https://github.com/Bharatagarwal0711/Leetcode/tree/master/0543-diameter-of-binary-tree) |
-## Depth-First Search
-|  |
-| ------- |
-| [0543-diameter-of-binary-tree](https://github.com/Bharatagarwal0711/Leetcode/tree/master/0543-diameter-of-binary-tree) |
-## Binary Tree
-|  |
-| ------- |
-| [0543-diameter-of-binary-tree](https://github.com/Bharatagarwal0711/Leetcode/tree/master/0543-diameter-of-binary-tree) |
-## Linked List
-|  |
-| ------- |
-| [0086-partition-list](https://github.com/Bharatagarwal0711/Leetcode/tree/master/0086-partition-list) |
-| [0138-copy-list-with-random-pointer](https://github.com/Bharatagarwal0711/Leetcode/tree/master/0138-copy-list-with-random-pointer) |
-| [0141-linked-list-cycle](https://github.com/Bharatagarwal0711/Leetcode/tree/master/0141-linked-list-cycle) |
-| [0142-linked-list-cycle-ii](https://github.com/Bharatagarwal0711/Leetcode/tree/master/0142-linked-list-cycle-ii) |
-## Two Pointers
-|  |
-| ------- |
-| [0086-partition-list](https://github.com/Bharatagarwal0711/Leetcode/tree/master/0086-partition-list) |
-| [0125-valid-palindrome](https://github.com/Bharatagarwal0711/Leetcode/tree/master/0125-valid-palindrome) |
-| [0141-linked-list-cycle](https://github.com/Bharatagarwal0711/Leetcode/tree/master/0141-linked-list-cycle) |
-| [0142-linked-list-cycle-ii](https://github.com/Bharatagarwal0711/Leetcode/tree/master/0142-linked-list-cycle-ii) |
-## Array
-|  |
-| ------- |
-| [0118-pascals-triangle](https://github.com/Bharatagarwal0711/Leetcode/tree/master/0118-pascals-triangle) |
-| [0119-pascals-triangle-ii](https://github.com/Bharatagarwal0711/Leetcode/tree/master/0119-pascals-triangle-ii) |
-| [0121-best-time-to-buy-and-sell-stock](https://github.com/Bharatagarwal0711/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
-| [0136-single-number](https://github.com/Bharatagarwal0711/Leetcode/tree/master/0136-single-number) |
-## Dynamic Programming
-|  |
-| ------- |
-| [0118-pascals-triangle](https://github.com/Bharatagarwal0711/Leetcode/tree/master/0118-pascals-triangle) |
-| [0119-pascals-triangle-ii](https://github.com/Bharatagarwal0711/Leetcode/tree/master/0119-pascals-triangle-ii) |
-| [0121-best-time-to-buy-and-sell-stock](https://github.com/Bharatagarwal0711/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
-## String
-|  |
-| ------- |
-| [0125-valid-palindrome](https://github.com/Bharatagarwal0711/Leetcode/tree/master/0125-valid-palindrome) |
-## Bit Manipulation
-|  |
-| ------- |
-| [0136-single-number](https://github.com/Bharatagarwal0711/Leetcode/tree/master/0136-single-number) |
-## Hash Table
-|  |
-| ------- |
-| [0138-copy-list-with-random-pointer](https://github.com/Bharatagarwal0711/Leetcode/tree/master/0138-copy-list-with-random-pointer) |
-| [0141-linked-list-cycle](https://github.com/Bharatagarwal0711/Leetcode/tree/master/0141-linked-list-cycle) |
-| [0142-linked-list-cycle-ii](https://github.com/Bharatagarwal0711/Leetcode/tree/master/0142-linked-list-cycle-ii) |
-<!---LeetCode Topics End-->
