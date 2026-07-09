@@ -59,11 +59,13 @@
 | ------- |
 | [0143-reorder-list](https://github.com/Bharatagarwal0711/Leetcode/tree/master/0143-reorder-list) |
 | [0147-insertion-sort-list](https://github.com/Bharatagarwal0711/Leetcode/tree/master/0147-insertion-sort-list) |
+| [0160-intersection-of-two-linked-lists](https://github.com/Bharatagarwal0711/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 ## Two Pointers
 |  |
 | ------- |
 | [0143-reorder-list](https://github.com/Bharatagarwal0711/Leetcode/tree/master/0143-reorder-list) |
 | [0151-reverse-words-in-a-string](https://github.com/Bharatagarwal0711/Leetcode/tree/master/0151-reverse-words-in-a-string) |
+| [0160-intersection-of-two-linked-lists](https://github.com/Bharatagarwal0711/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 ## Stack
 |  |
 | ------- |
@@ -80,4 +82,8 @@
 |  |
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/Bharatagarwal0711/Leetcode/tree/master/0151-reverse-words-in-a-string) |
+## Hash Table
+|  |
+| ------- |
+| [0160-intersection-of-two-linked-lists](https://github.com/Bharatagarwal0711/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 <!---LeetCode Topics End-->
