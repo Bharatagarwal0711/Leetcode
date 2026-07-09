@@ -58,6 +58,7 @@
 |  |
 | ------- |
 | [0143-reorder-list](https://github.com/Bharatagarwal0711/Leetcode/tree/master/0143-reorder-list) |
+| [0147-insertion-sort-list](https://github.com/Bharatagarwal0711/Leetcode/tree/master/0147-insertion-sort-list) |
 ## Two Pointers
 |  |
 | ------- |
@@ -70,4 +71,8 @@
 |  |
 | ------- |
 | [0143-reorder-list](https://github.com/Bharatagarwal0711/Leetcode/tree/master/0143-reorder-list) |
+## Sorting
+|  |
+| ------- |
+| [0147-insertion-sort-list](https://github.com/Bharatagarwal0711/Leetcode/tree/master/0147-insertion-sort-list) |
 <!---LeetCode Topics End-->
