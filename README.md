@@ -78,6 +78,7 @@
 |  |
 | ------- |
 | [0147-insertion-sort-list](https://github.com/Bharatagarwal0711/Leetcode/tree/master/0147-insertion-sort-list) |
+| [0169-majority-element](https://github.com/Bharatagarwal0711/Leetcode/tree/master/0169-majority-element) |
 ## String
 |  |
 | ------- |
@@ -86,4 +87,17 @@
 |  |
 | ------- |
 | [0160-intersection-of-two-linked-lists](https://github.com/Bharatagarwal0711/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
+| [0169-majority-element](https://github.com/Bharatagarwal0711/Leetcode/tree/master/0169-majority-element) |
+## Array
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Bharatagarwal0711/Leetcode/tree/master/0169-majority-element) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Bharatagarwal0711/Leetcode/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Bharatagarwal0711/Leetcode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
