@@ -13,6 +13,7 @@ public:
         ListNode* h2 = headB;
 
         while(h1!=h2){
+            
             if(h1 == NULL) h1 = headB;
             else h1 = h1->next;
 
