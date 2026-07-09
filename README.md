@@ -98,6 +98,7 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Bharatagarwal0711/Leetcode/tree/master/0169-majority-element) |
+| [0191-number-of-1-bits](https://github.com/Bharatagarwal0711/Leetcode/tree/master/0191-number-of-1-bits) |
 ## Counting
 |  |
 | ------- |
@@ -106,4 +107,8 @@
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/Bharatagarwal0711/Leetcode/tree/master/0189-rotate-array) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0191-number-of-1-bits](https://github.com/Bharatagarwal0711/Leetcode/tree/master/0191-number-of-1-bits) |
 <!---LeetCode Topics End-->
