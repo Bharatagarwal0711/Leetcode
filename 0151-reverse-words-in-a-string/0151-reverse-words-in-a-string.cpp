@@ -15,7 +15,8 @@ public:
             }
             if(temp.size()!=0){
                 reverse(temp.begin(),temp.end());
-                ans = ans + " " + temp;
+                ans += " ";
+                ans += temp;
             }
         }
         return ans.erase(0,1);
