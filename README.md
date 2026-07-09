@@ -66,6 +66,7 @@
 | [0143-reorder-list](https://github.com/Bharatagarwal0711/Leetcode/tree/master/0143-reorder-list) |
 | [0151-reverse-words-in-a-string](https://github.com/Bharatagarwal0711/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Bharatagarwal0711/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
+| [0189-rotate-array](https://github.com/Bharatagarwal0711/Leetcode/tree/master/0189-rotate-array) |
 ## Stack
 |  |
 | ------- |
@@ -92,6 +93,7 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Bharatagarwal0711/Leetcode/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/Bharatagarwal0711/Leetcode/tree/master/0189-rotate-array) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -100,4 +102,8 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Bharatagarwal0711/Leetcode/tree/master/0169-majority-element) |
+## Math
+|  |
+| ------- |
+| [0189-rotate-array](https://github.com/Bharatagarwal0711/Leetcode/tree/master/0189-rotate-array) |
 <!---LeetCode Topics End-->
