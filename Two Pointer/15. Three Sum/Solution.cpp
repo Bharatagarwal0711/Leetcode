@@ -1,0 +1,41 @@
+#include<iostream>
+#include<vector>
+#include<algorithm>
+using namespace std; 
+
+class Solution {
+public:
+    vector<vector<int>> threeSum(vector<int>& nums) {
+
+        sort(nums.begin(),nums.end());
+        
+        vector<vector<int>> ans;
+        int i = 0;
+        while(i<nums.size()-2){
+            if(nums[i]>0) break;
+            if(i>0 && nums[i] == nums[i-1]){
+                i++;
+                continue;
+            }
+
+            int j=i+1;
+            int k = nums.size()-1;
+
+            while(j<k){
+  
+                int sum = nums[j]+nums[k];
+                if(sum == -nums[i]){
+                    ans.push_back({nums[i],nums[j],nums[k]});
+                    k--;
+                    j++;
+                    while(j<k && nums[j]==nums[j-1]) j++;
+                    while(k>j && nums[k] == nums[k+1]) k--;
+                }
+                else if(sum < -nums[i]) j++;
+                else k--;
+            }
+            i++;
+        }
+        return ans;
+    }
+};

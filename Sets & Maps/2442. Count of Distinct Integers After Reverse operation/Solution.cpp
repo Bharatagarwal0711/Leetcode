@@ -1,0 +1,32 @@
+#include<iostream>
+#include<unordered_set>
+#include<vector>
+#include<string>
+using namespace std;
+
+
+class Solution {
+public:
+    int countDistinctIntegers(vector<int>& nums) {
+        
+        int n = nums.size();
+        string str = ""; 
+
+        for(int i=0;i<n;i++){
+            int num = nums[i];
+            int rev = 0;
+
+            while(num){
+                rev *= 10;
+                rev += num % 10;
+                num /= 10;
+            }
+            nums.push_back(rev);
+        }
+
+        unordered_set<int> s(nums.begin(),nums.end());
+
+        return s.size();
+
+    }
+};
