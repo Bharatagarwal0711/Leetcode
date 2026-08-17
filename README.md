@@ -24,7 +24,6 @@
 - 📁 [Cycle Sort](./Cycle%20Sort/)
 - 📁 [Dynamic Programming](./Dynamic%20Programming/)
 - 📁 [Greedy](./Greedy/)
-- 📁 [Hash Table](./Hash%20Table/)
 - 📁 [Intervals](./Intervals/)
 - 📁 [Linked List](./Linked%20List/)
 - 📁 [Math](./Math/)
@@ -206,26 +205,6 @@
 
 </details>
 
----
-<a id="hash-table"></a>
-
-## 📁 Hash Table 
-
-<details>
-<summary><b>5 Problems</b></summary>
-
-| # | Problem | Difficulty | Solution |
-|:-:|---------|:----------:|:--------:|
-| 49 | Group Anagrams | 🟡 Medium | [Code](./Hash%20Table/49.%20Group%20Anagram/) |
-| 205 | Isomorphic Strings | 🟢 Easy | [Code](./Hash%20Table/205.%20Isomorphic%20String/) |
-| 217 | Contains Duplicate | 🟢 Easy | [Code](./Hash%20Table/217.%20Contains%20Duplicate%20I/) |
-| 219 | Contains Duplicate II | 🟢 Easy | [Code](./Hash%20Table/219.%20Contains%20Duplicate%20II/) |
-| 242 | Valid Anagram | 🟢 Easy | [Code](./Hash%20Table/242.%20Valid%20Anagram/) |
-
-</details>
-
----
-
 <a id="intervals"></a>
 
 ## 📁 Intervals 
@@ -401,10 +380,15 @@
 ## 📁 Sets & Maps 
 
 <details>
-<summary><b>8 Problems</b></summary>
+<summary><b>13 Problems</b></summary>
 
 | # | Problem | Difficulty | Solution |
 |:-:|---------|:----------:|:--------:|
+| 49 | Group Anagrams | 🟡 Medium | [Code](./Sets%20&%20Maps/49.%20Group%20Anagram/) |
+| 205 | Isomorphic Strings | 🟢 Easy | [Code](./Sets%20&%20Maps/205.%20Isomorphic%20String/) |
+| 217 | Contains Duplicate | 🟢 Easy | [Code](./Sets%20&%20Maps/217.%20Contains%20Duplicate%20I/) |
+| 219 | Contains Duplicate II | 🟢 Easy | [Code](./Sets%20&%20Maps/219.%20Contains%20Duplicate%20II/) |
+| 242 | Valid Anagram | 🟢 Easy | [Code](./Sets%20&%20Maps/242.%20Valid%20Anagram/) |
 | 380 | Insert Delete GetRandom O(1) | 🟡 Medium | [Code](./Sets%20&%20Maps/380.%20Insert%20Delete%20GetRandom%20O(1)/) |
 | 1122 | Relative Sort Array | 🟢 Easy | [Code](./Sets%20&%20Maps/1122.%20Relative%20Sort%20Array/) |
 | 1207 | Unique Number of Occurrences | 🟢 Easy | [Code](./Sets%20&%20Maps/1207.%20Unique%20Number%20of%20Occurrences/) |
