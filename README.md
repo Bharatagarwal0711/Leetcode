@@ -6,10 +6,10 @@
 </p>
 
 <p align="center">
-  🟢 <b>Easy:</b> 70 &nbsp;&nbsp;|&nbsp;&nbsp;
-  🟡 <b>Medium:</b> 90 &nbsp;&nbsp;|&nbsp;&nbsp;
+  🟢 <b>Easy:</b> 75 &nbsp;&nbsp;|&nbsp;&nbsp;
+  🟡 <b>Medium:</b> 87 &nbsp;&nbsp;|&nbsp;&nbsp;
   🔴 <b>Hard:</b> 10 &nbsp;&nbsp;|&nbsp;&nbsp;
-  📚 <b>Total:</b> 170
+  📚 <b>Total:</b> 172
 </p>
 
 ---
