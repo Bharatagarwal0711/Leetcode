@@ -49,9 +49,9 @@
 
 | # | Problem | Difficulty | Solution |
 |:-:|---------|:----------:|:--------:|
-| 1 | Two Sum | Easy | [Code](./Arrays/1.%20Two%20Sum/) |
+| 1 | Two Sum | 🟢 Easy | [Code](./Arrays/1.%20Two%20Sum/) |
 | 31 | Next Permutation | Medium | [Code](./Arrays/31.%20Next%20Permutation/) |
-| 88 | Merge Sorted Arrays | Easy | [Code](./Arrays/88.%20Merge%20Sorted%20Arrays/) |
+| 88 | Merge Sorted Arrays | 🟢 Easy | [Code](./Arrays/88.%20Merge%20Sorted%20Arrays/) |
 | 169 | Majority Element | Easy | [Code](./Arrays/169.%20Majority%20Element/) |
 | 189 | Rotate Array By K Steps | Medium | [Code](./Arrays/189.%20Rotate%20Array%20By%20K%20Steps/) |
 | 349 | Intersection of Two Arrays | Easy | [Code](./Arrays/349.%20Intersection%20of%20Two%20Arrays/) |
