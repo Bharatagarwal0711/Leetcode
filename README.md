@@ -7,9 +7,9 @@
 
 <p align="center">
   🟢 <b>Easy:</b> 75 &nbsp;&nbsp;|&nbsp;&nbsp;
-  🟡 <b>Medium:</b> 87 &nbsp;&nbsp;|&nbsp;&nbsp;
+  🟡 <b>Medium:</b> 88 &nbsp;&nbsp;|&nbsp;&nbsp;
   🔴 <b>Hard:</b> 10 &nbsp;&nbsp;|&nbsp;&nbsp;
-  📚 <b>Total:</b> 172
+  📚 <b>Total:</b> 173
 </p>
 
 ---
@@ -380,7 +380,7 @@
 ## 📁 Sets & Maps 
 
 <details>
-<summary><b>13 Problems</b></summary>
+<summary><b>14 Problems</b></summary>
 
 | # | Problem | Difficulty | Solution |
 |:-:|---------|:----------:|:--------:|
@@ -393,6 +393,8 @@
 | 1122 | Relative Sort Array | 🟢 Easy | [Code](./Sets%20&%20Maps/1122.%20Relative%20Sort%20Array/) |
 | 1207 | Unique Number of Occurrences | 🟢 Easy | [Code](./Sets%20&%20Maps/1207.%20Unique%20Number%20of%20Occurrences/) |
 | 1679 | Max Number of K-Sum Pairs | 🟡 Medium | [Code](./Sets%20&%20Maps/1679.%20Max%20Number%20of%20K-Sum%20Pairs/) |
+| 1814 | Count Nice Pairs in an Array | 🟡 Medium | [Code](./Sets%20&%20Maps/1814.%20Count%20Nice%20Pairs%20in%20an%20Array/) |
+
 | 1865 | Finding Pairs With a Certain Sum | 🟡 Medium | [Code](./Sets%20&%20Maps/1865.%20Finding%20Pairs%20with%20Certain%20Sum/) |
 | 2094 | Finding 3-Digit Even Numbers | 🟢 Easy | [Code](./Sets%20&%20Maps/2094.%20Finding%203%20Digit%20Even%20Number/) |
 | 2442 | Count Number of Distinct Integers After Reverse Operations | 🟢 Easy | [Code](./Sets%20&%20Maps/2442.%20Count%20of%20Distinct%20Integers%20After%20Reverse...) |
