@@ -45,7 +45,7 @@
 ## 📁 Arrays
 
 <details>
-<summary><b>7 Problems </b></summary>
+<summary><b>9 Problems </b></summary>
 
 | # | Problem | Difficulty | Solution |
 |:-:|---------|:----------:|:--------:|
@@ -54,6 +54,8 @@
 | 88 | Merge Sorted Arrays | Easy | [Code](./Arrays/88.%20Merge%20Sorted%20Arrays/) |
 | 169 | Majority Element | Easy | [Code](./Arrays/169.%20Majority%20Element/) |
 | 189 | Rotate Array By K Steps | Medium | [Code](./Arrays/189.%20Rotate%20Array%20By%20K%20Steps/) |
+| 349 | Intersection of Two Arrays | Easy | [Code](./Arrays/349.%20Intersection%20of%20Two%20Arrays/) |
+| 350 | Intersection of Two Arrays II | Easy | [Code](./Arrays/350.%20Intersection%20of%20Two%20Arrays%20II/) |
 | 485 | Max Consecutive Ones | Easy | [Code](./Arrays/485.%20Max%20Consecutive%20Ones/) |
 | 2419 | Longest Subarray With Maximum Bitwise AND | Medium | [Code](./Arrays/2419.%20Subarray%20with%20max%20%26%20value/) |
 
