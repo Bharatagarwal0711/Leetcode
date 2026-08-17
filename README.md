@@ -320,10 +320,11 @@
 ## 📁 Matrix 
 
 <details>
-<summary><b>9 Problems</b></summary>
+<summary><b>10 Problems</b></summary>
 
 | # | Problem | Difficulty | Solution |
 |:-:|---------|:----------:|:--------:|
+| 36 | Valid Sudoku | Medium | [Code](./Matrix/36.%20Valid%20Sudoku/) |
 | 48 | Rotate Image | Medium | [Code](./Matrix/48.%20Rotate%20Image/) |
 | 54 | Spiral Matrix | Medium | [Code](./Matrix/54.%20Spiral%20Print/) |
 | 59 | Spiral Matrix II | Medium | [Code](./Matrix/59.%20Sprial%20Matrix%20II/) |
@@ -401,10 +402,11 @@
 ## 📁 Sets & Maps 
 
 <details>
-<summary><b>7 Problems</b></summary>
+<summary><b>8 Problems</b></summary>
 
 | # | Problem | Difficulty | Solution |
 |:-:|---------|:----------:|:--------:|
+| 380 | Insert Delete GetRandom O(1) | Medium | [Code](./Sets%20&%20Maps/380.%20Insert%20Delete%20GetRandom%20O(1)/) |
 | 1122 | Relative Sort Array | Easy | [Code](./Sets%20&%20Maps/1122.%20Relative%20Sort%20Array/) |
 | 1207 | Unique Number of Occurrences | Easy | [Code](./Sets%20&%20Maps/1207.%20Unique%20Number%20of%20Occurrences/) |
 | 1679 | Max Number of K-Sum Pairs | Medium | [Code](./Sets%20&%20Maps/1679.%20Max%20Number%20of%20K-Sum%20Pairs/) |
@@ -437,7 +439,7 @@
 ## 📁 Stack 
 
 <details>
-<summary><b>13 Problems</b></summary>
+<summary><b>14 Problems</b></summary>
 
 | # | Problem | Difficulty | Solution |
 |:-:|---------|:----------:|:--------:|
@@ -449,6 +451,7 @@
 | 496 | Next Greater Element I | Easy | [Code](./Stack/496.%20Next%20Greater%20Element%20I/) |
 | 503 | Next Greater Element II | Medium | [Code](./Stack/503.%20Next%20Greater%20Element%20II/) |
 | 682 | Baseball Game | Easy | [Code](./Stack/682.%20BaseBall%20Game/) |
+| 739 | Daily Temperatures | Medium | [Code](./Stack/739.%20Daily%20Temperatures/) |
 | 901 | Online Stock Span | Medium | [Code](./Stack/901.%20Online%20Stock%20Span/) |
 | 1019 | Next Greater Node In Linked List | Medium | [Code](./Stack/1019.%20Next%20Greater%20Node%20in%20Linked%20List/) |
 | 1047 | Remove All Adjacent Duplicates In String | Easy | [Code](./Stack/1047.%20Remove%20All%20Adjacent%20Duplicates%20in%20String/) |
@@ -483,13 +486,15 @@
 ## 📁 Two Pointers 
 
 <details>
-<summary><b>9 Problems</b></summary>
+<summary><b>11 Problems</b></summary>
 
 | # | Problem | Difficulty | Solution |
 |:-:|---------|:----------:|:--------:|
 | 11 | Container With Most Water | Medium | [Code](./Two%20Pointer/11.%20Container%20with%20most%20Water/) |
 | 15 | 3Sum | Medium | [Code](./Two%20Pointer/15.%20Three%20Sum/) |
 | 18 | 4Sum | Medium | [Code](./Two%20Pointer/18.%20Four%20Sum/) |
+| 26 | Remove Duplicates From Sorted Array | Easy | [Code](./Two%20Pointer/26.%20Remove%20Duplicates%20From%20Sorted%20Array/) |
+| 27 | Remove Element | Easy | [Code](./Two%20Pointer/27.%20Remove%20Element/) |
 | 42 | Trapping Rain Water | Hard | [Code](./Two%20Pointer/42.%20Trapping%20Rainwater/) |
 | 75 | Sort Colors | Medium | [Code](./Two%20Pointer/75.%20Sort%20Colors/) |
 | 125 | Valid Palindrome | Easy | [Code](./Two%20Pointer/125.%20Valid%20Palindrome/) |
