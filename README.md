@@ -7,9 +7,9 @@
 
 <p align="center">
   🟢 <b>Easy:</b> 75 &nbsp;&nbsp;|&nbsp;&nbsp;
-  🟡 <b>Medium:</b> 88 &nbsp;&nbsp;|&nbsp;&nbsp;
+  🟡 <b>Medium:</b> 96 &nbsp;&nbsp;|&nbsp;&nbsp;
   🔴 <b>Hard:</b> 10 &nbsp;&nbsp;|&nbsp;&nbsp;
-  📚 <b>Total:</b> 173
+  📚 <b>Total:</b> 181
 </p>
 
 ---
@@ -433,7 +433,7 @@
 
 | # | Problem | Difficulty | Solution |
 |:-:|---------|:----------:|:--------:|
-| 3 | Longest Substring without Repeating Characters | 🟡 Medium | [Code](./Sliding%20Window/3.%20Longest%20Substring%20without%20Reapeating%20Characters/) |
+| 3 | Longest Substring without Repeating Characters | 🟡 Medium | [Code](./Sliding%20Window/3.%20Longest%20Substring%20without%20Repeating%20Characters/) |
 | 438 | Find All Anagrams in String | 🟡 Medium | [Code](./Sliding%20Window/438.%20Find%20All%20Anagrams%20in%20String/) |
 
 </details>
