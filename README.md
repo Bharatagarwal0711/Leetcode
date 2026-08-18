@@ -33,6 +33,7 @@
 - 📁 [Queue](./Queue/)
 - 📁 [Sets & Maps](./Sets%20&%20Maps/)
 - 📁 [Simulation](./Simulation/)
+- 📁 [Sliding Window](./Sliding%20Window/)
 - 📁 [Stack](./Stack/)
 - 📁 [String](./String/)
 - 📁 [Two Pointers](./Two%20Pointer/)
@@ -175,7 +176,7 @@
 ## 📁 Dynamic Programming 
 
 <details>
-<summary><b>6 Problems</b></summary>
+<summary><b>7 Problems</b></summary>
 
 | # | Problem | Difficulty | Solution |
 |:-:|---------|:----------:|:--------:|
@@ -183,6 +184,7 @@
 | 118 | Pascal's Triangle | 🟢 Easy | [Code](./Dynamic%20Programming/118.%20Pascal%20Triangle/) |
 | 119 | Pascal's Triangle II | 🟢 Easy | [Code](./Dynamic%20Programming/119.%20Pascal%20Triangle%20II/) |
 | 121 | Best Time to Buy and Sell Stock | 🟢 Easy | [Code](./Dynamic%20Programming/121.%20Best%20Time%20to%20Buy%20&%20Sell%20Stock/) |
+| 122 | Best Time to Buy and Sell Stock II | 🟡 Medium | [Code](./Dynamic%20Programming/122.%20Best%20Time%20to%20Buy%20&%20Sell%20Stock%20II/) |
 | 509 | Fibonacci Number | 🟢 Easy | [Code](./Dynamic%20Programming/509.%20Fibonacci%20Number/) |
 | 650 | 2 Keys Keyboard | 🟡 Medium | [Code](./Dynamic%20Programming/650.%202%20Keys%20KeyBoard/) |
 
@@ -195,10 +197,11 @@
 ## 📁 Greedy 
 
 <details>
-<summary><b>3 Problems</b></summary>
+<summary><b>4 Problems</b></summary>
 
 | # | Problem | Difficulty | Solution |
 |:-:|---------|:----------:|:--------:|
+| 134 | Gas Station | 🟡 Medium | [Code](./Greedy/134.%20Gas%20Station/) |
 | 455 | Assign Cookies | 🟢 Easy | [Code](./Greedy/455.%20Assign%20Cookies/) |
 | 861 | Score After Flipping Matrix | 🟡 Medium | [Code](./Greedy/861.%20Score%20After%20Flipping/) |
 | 1402 | Reducing Dishes | 🔴 Hard | [Code](./Greedy/1402.%20Reducing%20Dishes/) |
@@ -380,16 +383,19 @@
 ## 📁 Sets & Maps 
 
 <details>
-<summary><b>14 Problems</b></summary>
+<summary><b>17 Problems</b></summary>
 
 | # | Problem | Difficulty | Solution |
 |:-:|---------|:----------:|:--------:|
 | 49 | Group Anagrams | 🟡 Medium | [Code](./Sets%20&%20Maps/49.%20Group%20Anagram/) |
+| 128 | Longest Consecutive Sequence | 🟡 Medium | [Code](./Sets%20&%20Maps/128.%20Longest%20Consecutive%20Sequence/) |
 | 205 | Isomorphic Strings | 🟢 Easy | [Code](./Sets%20&%20Maps/205.%20Isomorphic%20String/) |
 | 217 | Contains Duplicate | 🟢 Easy | [Code](./Sets%20&%20Maps/217.%20Contains%20Duplicate%20I/) |
 | 219 | Contains Duplicate II | 🟢 Easy | [Code](./Sets%20&%20Maps/219.%20Contains%20Duplicate%20II/) |
 | 242 | Valid Anagram | 🟢 Easy | [Code](./Sets%20&%20Maps/242.%20Valid%20Anagram/) |
+| 347 | Top K Frequent Elements| 🟡 Medium | [Code](./Sets%20&%20Maps/347.%20Top%20k%20Frequent%20Elements/) |
 | 380 | Insert Delete GetRandom O(1) | 🟡 Medium | [Code](./Sets%20&%20Maps/380.%20Insert%20Delete%20GetRandom%20O(1)/) |
+| 560 | Subarray Sum Equals K | 🟡 Medium | [Code](./Sets%20&%20Maps/560.%20Subarray%20Sum%20Equals%20K/) |
 | 1122 | Relative Sort Array | 🟢 Easy | [Code](./Sets%20&%20Maps/1122.%20Relative%20Sort%20Array/) |
 | 1207 | Unique Number of Occurrences | 🟢 Easy | [Code](./Sets%20&%20Maps/1207.%20Unique%20Number%20of%20Occurrences/) |
 | 1679 | Max Number of K-Sum Pairs | 🟡 Medium | [Code](./Sets%20&%20Maps/1679.%20Max%20Number%20of%20K-Sum%20Pairs/) |
@@ -418,17 +424,34 @@
 
 ---
 
+<a id="sliding-window"></a>
+
+## 📁 Sliding Window 
+
+<details>
+<summary><b>2 Problem</b></summary>
+
+| # | Problem | Difficulty | Solution |
+|:-:|---------|:----------:|:--------:|
+| 3 | Longest Substring without Repeating Characters | 🟡 Medium | [Code](./Sliding%20Window/3.%20Longest%20Substring%20without%20Reapeating%20Characters/) |
+| 438 | Find All Anagrams in String | 🟡 Medium | [Code](./Sliding%20Window/438.%20Find%20All%20Anagrams%20in%20String/) |
+
+</details>
+
+---
+
 <a id="stack"></a>
 
 ## 📁 Stack 
 
 <details>
-<summary><b>14 Problems</b></summary>
+<summary><b>15 Problems</b></summary>
 
 | # | Problem | Difficulty | Solution |
 |:-:|---------|:----------:|:--------:|
 | 20 | Valid Parentheses | 🟢 Easy | [Code](./Stack/20.%20Valid%20Parantheses/) |
 | 84 | Largest Rectangle in Histogram | 🔴 Hard | [Code](./Stack/84.%20Largest%20Rectangle%20in%20Histogram/) |
+| 150 | Evaluate Reverse Polish Notation | 🟡 Medium | [Code](./Stack/150.%20Evaluate%20Reverse%20Polish%20Notation/) |
 | 155 | Min Stack | 🟡 Medium | [Code](./Stack/155.%20Min%20Stack/) |
 | 225 | Implement Stack using Queues | 🟢 Easy | [Code](./Stack/225.%20Stack%20using%20Queues/) |
 | 277 | Find the Celebrity | 🟡 Medium | [Code](./Stack/277.%20Celebrity%20Problem/) |
