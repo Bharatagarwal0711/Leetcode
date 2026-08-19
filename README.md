@@ -6,10 +6,10 @@
 </p>
 
 <p align="center">
-  🟢 <b>Easy:</b> 75 &nbsp;&nbsp;|&nbsp;&nbsp;
-  🟡 <b>Medium:</b> 96 &nbsp;&nbsp;|&nbsp;&nbsp;
+  🟢 <b>Easy:</b> 81 &nbsp;&nbsp;|&nbsp;&nbsp;
+  🟡 <b>Medium:</b> 97 &nbsp;&nbsp;|&nbsp;&nbsp;
   🔴 <b>Hard:</b> 10 &nbsp;&nbsp;|&nbsp;&nbsp;
-  📚 <b>Total:</b> 181
+  📚 <b>Total:</b> 188
 </p>
 
 ---
@@ -82,7 +82,7 @@
 ## 📁 Binary Search 
 
 <details>
-<summary><b> 14 Problems</b></summary>
+<summary><b> 16 Problems</b></summary>
 
 | # | Problem | Difficulty | Solution |
 |:-:|---------|:----------:|:--------:|
@@ -91,7 +91,9 @@
 | 69 | Sqrt(x) | 🟢 Easy | [Code](./Binary%20Search/69.%20Sqrt%20x/) |
 | 74 | Search a 2D Matrix | 🟡 Medium | [Code](./Binary%20Search/74.%20Search%20in%20a%202D%20Matrix/) |
 | 81 | Search in Rotated Sorted Array II | 🟡 Medium | [Code](./Binary%20Search/81.%20Search%20in%20Rotated%20Sorted%20Array%20II/) |
-| 240 | Search a 2D Matrix II | 🟡 Medium | [Code](./Binary%20Search/240.%20Search%20in%20a%202D%20Matirx%20II/) |
+| 153 | Minimum in Rotated Sorted Array | 🟡 Medium | [Code](./Binary%20Search/153.%20Minimum%20in%20Rotated%20Sorted%20Array/) |
+| 240 | Search in a 2D Matrix II | 🟡 Medium | [Code](./Binary%20Search/240.%20Search%20in%20a%202D%20Matirx%20II/) |
+| 278 | First Bad Version | 🟢 Easy | [Code](./Binary%20Search/278.%20First%20Bad%20Version/) |
 | 410 | Split Array Largest Sum | 🔴 Hard | [Code](./Binary%20Search/410.%20Split%20Array%20Largest%20Sum/) |
 | 540 | Single Element in a Sorted Array | 🟡 Medium | [Code](./Binary%20Search/540.%20Single%20Element%20in%20Sorted%20Array/) |
 | 658 | Find K Closest Elements | 🟡 Medium | [Code](./Binary%20Search/658.%20K%20Closest%20Elements/) |
@@ -278,13 +280,14 @@
 ## 📁 Math 
 
 <details>
-<summary><b>9 Problems</b></summary>
+<summary><b>10 Problems</b></summary>
 
 | # | Problem | Difficulty | Solution |
 |:-:|---------|:----------:|:--------:|
 | 7 | Reverse Integer | 🟡 Medium | [Code](./Math/7.%20Reverse%20Integer/) |
 | 9 | Palindrome Number | 🟢 Easy | [Code](./Math/9.%20Palindrome%20Number/) |
 | 50 | Pow(x, n) | 🟡 Medium | [Code](./Math/50.%20Power%20(x,n)/) |
+| 202 | Happy Number | 🟢 Easy | [Code](./Math/202.%20Happy%20Number/) |
 | 204 | Count Primes | 🟡 Medium | [Code](./Math/204.%20Count%20Primes/) |
 | 263 | Ugly Number | 🟢 Easy | [Code](./Math/263.%20Ugly%20Number/) |
 | 507 | Perfect Number | 🟢 Easy | [Code](./Math/507.%20Perfect%20Number/) |
@@ -474,12 +477,13 @@
 ## 📁 String 
 
 <details>
-<summary><b>5 Problems</b></summary>
+<summary><b>6 Problems</b></summary>
 
 | # | Problem | Difficulty | Solution |
 |:-:|---------|:----------:|:--------:|
 | 14 | Longest Common Prefix | 🟢 Easy | [Code](./String/14.%20Longest%20Common%20prefix/) |
 | 151 | Reverse Words in a String | 🟡 Medium | [Code](./String/151.%20Reverse%20Words%20in%20String/) |
+| 290 | Word Pattern | 🟢 Easy | [Code](./String/290.%20Word%20Pattern/) |
 | 387 | First Unique Character in a String | 🟢 Easy | [Code](./String/387.%20First%20Non%20Repeating%20char%20in%20String/) |
 | 520 | Detect Capital | 🟢 Easy | [Code](./String/520.%20Detech%20Capital/) |
 | 1910 | Remove All Occurrences of a Substring | 🟡 Medium | [Code](./String/1910.%20Remove%20All%20Occurrence%20of%20Substr/) |
@@ -493,7 +497,7 @@
 ## 📁 Two Pointers 
 
 <details>
-<summary><b>11 Problems</b></summary>
+<summary><b>14 Problems</b></summary>
 
 | # | Problem | Difficulty | Solution |
 |:-:|---------|:----------:|:--------:|
@@ -505,9 +509,12 @@
 | 42 | Trapping Rain Water | 🔴 Hard | [Code](./Two%20Pointer/42.%20Trapping%20Rainwater/) |
 | 75 | Sort Colors | 🟡 Medium | [Code](./Two%20Pointer/75.%20Sort%20Colors/) |
 | 125 | Valid Palindrome | 🟢 Easy | [Code](./Two%20Pointer/125.%20Valid%20Palindrome/) |
+| 283 | Move Zeros | 🟢 Easy | [Code](./Two%20Pointer/283.%20Move%20Zeros/) |
 | 344 | Reverse String | 🟢 Easy | [Code](./Two%20Pointer/344.%20Reverse%20String/) |
+| 392 | Is Subsequence | 🟢 Easy | [Code](./Two%20Pointer/392.%20Is%20Subsequence/) |
 | 443 | String Compression | 🟡 Medium | [Code](./Two%20Pointer/443.%20String%20Compression/) |
-| 633 | Sum of Square Numbers | 🟡 Medium | [Code](./Two%20Pointer/633.%20Sum%20of%20Square/) |
+| 633 | Sum of Square Numbers | 🟡 Medium | [Code](./Two%20Pointer/633.%20Sum%20of%20Square%20Numbers/) |
+| 977 | Squares of a Sorted Array | 🟢 Easy | [Code](./Two%20Pointer/9777.%20Squares%20of%20a%20Sorted%20Array/) |
 
 </details>
 
