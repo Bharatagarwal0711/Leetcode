@@ -6,10 +6,10 @@
 </p>
 
 <p align="center">
-  🟢 <b>Easy:</b> 81 &nbsp;&nbsp;|&nbsp;&nbsp;
-  🟡 <b>Medium:</b> 97 &nbsp;&nbsp;|&nbsp;&nbsp;
+  🟢 <b>Easy:</b> 84 &nbsp;&nbsp;|&nbsp;&nbsp;
+  🟡 <b>Medium:</b> 100 &nbsp;&nbsp;|&nbsp;&nbsp;
   🔴 <b>Hard:</b> 10 &nbsp;&nbsp;|&nbsp;&nbsp;
-  📚 <b>Total:</b> 188
+  📚 <b>Total:</b> 194
 </p>
 
 ---
@@ -45,7 +45,7 @@
 ## 📁 Arrays
 
 <details>
-<summary><b>9 Problems </b></summary>
+<summary><b>10 Problems </b></summary>
 
 | # | Problem | Difficulty | Solution |
 |:-:|---------|:----------:|:--------:|
@@ -58,6 +58,7 @@
 | 350 | Intersection of Two Arrays II | 🟢 Easy | [Code](./Arrays/350.%20Intersection%20of%20Two%20Arrays%20II/) |
 | 485 | Max Consecutive Ones | 🟢 Easy | [Code](./Arrays/485.%20Max%20Consecutive%20Ones/) |
 | 2419 | Longest Subarray With Maximum Bitwise AND | 🟡 Medium | [Code](./Arrays/2419.%20Subarray%20with%20max%20%26%20value/) |
+| 3069 | Distribute Element in Two Arrays I | 🟢 Easy | [Code](./Arrays/3069.%20Distribute%20Element%20in%20Two%20Arrays%20I/) |
 
 </details>
 
@@ -82,16 +83,18 @@
 ## 📁 Binary Search 
 
 <details>
-<summary><b> 16 Problems</b></summary>
+<summary><b> 18 Problems</b></summary>
 
 | # | Problem | Difficulty | Solution |
 |:-:|---------|:----------:|:--------:|
 | 33 | Search in Rotated Sorted Array | 🟡 Medium | [Code](./Binary%20Search/33.%20Search%20in%20Rotated%20Sorted%20Array/) |
 | 34 | Find First and Last Position of Element in Sorted Array | 🟡 Medium | [Code](./Binary%20Search/34.%20First%20Last%20Occurence%20in%20SortArray/) |
+| 35 | Search Insert Position | 🟢 Easy | [Code](./Binary%20Search/35.%20Search%20Insert%20Position/) |
 | 69 | Sqrt(x) | 🟢 Easy | [Code](./Binary%20Search/69.%20Sqrt%20x/) |
 | 74 | Search a 2D Matrix | 🟡 Medium | [Code](./Binary%20Search/74.%20Search%20in%20a%202D%20Matrix/) |
 | 81 | Search in Rotated Sorted Array II | 🟡 Medium | [Code](./Binary%20Search/81.%20Search%20in%20Rotated%20Sorted%20Array%20II/) |
 | 153 | Minimum in Rotated Sorted Array | 🟡 Medium | [Code](./Binary%20Search/153.%20Minimum%20in%20Rotated%20Sorted%20Array/) |
+| 162 | Find Peak Element | 🟡 Medium | [Code](./Binary%20Search/162.%20Find%20Peak%20Element/) |
 | 240 | Search in a 2D Matrix II | 🟡 Medium | [Code](./Binary%20Search/240.%20Search%20in%20a%202D%20Matirx%20II/) |
 | 278 | First Bad Version | 🟢 Easy | [Code](./Binary%20Search/278.%20First%20Bad%20Version/) |
 | 410 | Split Array Largest Sum | 🔴 Hard | [Code](./Binary%20Search/410.%20Split%20Array%20Largest%20Sum/) |
@@ -432,12 +435,13 @@
 ## 📁 Sliding Window 
 
 <details>
-<summary><b>2 Problem</b></summary>
+<summary><b>3 Problem</b></summary>
 
 | # | Problem | Difficulty | Solution |
 |:-:|---------|:----------:|:--------:|
 | 3 | Longest Substring without Repeating Characters | 🟡 Medium | [Code](./Sliding%20Window/3.%20Longest%20Substring%20without%20Repeating%20Characters/) |
 | 438 | Find All Anagrams in String | 🟡 Medium | [Code](./Sliding%20Window/438.%20Find%20All%20Anagrams%20in%20String/) |
+| 567 | Permutation in String | 🟡 Medium | [Code](./Sliding%20Window/567.%20Permutation%20in%20String/) |
 
 </details>
 
@@ -477,7 +481,7 @@
 ## 📁 String 
 
 <details>
-<summary><b>6 Problems</b></summary>
+<summary><b>7 Problems</b></summary>
 
 | # | Problem | Difficulty | Solution |
 |:-:|---------|:----------:|:--------:|
@@ -487,6 +491,7 @@
 | 387 | First Unique Character in a String | 🟢 Easy | [Code](./String/387.%20First%20Non%20Repeating%20char%20in%20String/) |
 | 520 | Detect Capital | 🟢 Easy | [Code](./String/520.%20Detech%20Capital/) |
 | 1910 | Remove All Occurrences of a Substring | 🟡 Medium | [Code](./String/1910.%20Remove%20All%20Occurrence%20of%20Substr/) |
+| 2839 | Check If Strings can be made Equal with Operations I | 🟢 Easy | [Code](./String/2839.%20Check%20If%20Strings%20can%20be%20made%20Equal%20with%20Operations/) |
 
 </details>
 
@@ -497,7 +502,7 @@
 ## 📁 Two Pointers 
 
 <details>
-<summary><b>14 Problems</b></summary>
+<summary><b>15 Problems</b></summary>
 
 | # | Problem | Difficulty | Solution |
 |:-:|---------|:----------:|:--------:|
@@ -509,6 +514,7 @@
 | 42 | Trapping Rain Water | 🔴 Hard | [Code](./Two%20Pointer/42.%20Trapping%20Rainwater/) |
 | 75 | Sort Colors | 🟡 Medium | [Code](./Two%20Pointer/75.%20Sort%20Colors/) |
 | 125 | Valid Palindrome | 🟢 Easy | [Code](./Two%20Pointer/125.%20Valid%20Palindrome/) |
+| 167 | Two Sum II - | 🟡 Medium | [Code](./Two%20Pointer/167.%20Two%20Sum%20II/) |
 | 283 | Move Zeros | 🟢 Easy | [Code](./Two%20Pointer/283.%20Move%20Zeros/) |
 | 344 | Reverse String | 🟢 Easy | [Code](./Two%20Pointer/344.%20Reverse%20String/) |
 | 392 | Is Subsequence | 🟢 Easy | [Code](./Two%20Pointer/392.%20Is%20Subsequence/) |
