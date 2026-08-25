@@ -448,7 +448,7 @@
 | 1052 | Grumpy BookStore Owner | 🟡 Medium | [Code](./Sliding%20Window/1052.%20Grumpy%20BookStore%20Owner/) |
 | 1343 | Number of Subarrays of size K and Threshold | 🟡 Medium | [Code](./Sliding%20Window/1343.%20Number%20of%20Subarrays%20of%20size%20K%20and%20Threshold/) |
 | 1493 | Longest Subarray of 1s after del 1 element | 🟡 Medium | [Code](./Sliding%20Window/1493.%20Longest%20Subarray%20of%201s%20after%20del%201%20element/) |
-| 2302 | Count Subarrays with Score Less than K | 🟡 Medium | [Code](./Sliding%20Window/2302.%20Count%20Subarrays%20with%20Score%20Less%20than%20K/) |
+| 2302 | Count Subarrays with Score Less than K | 🔴 Hard | [Code](./Sliding%20Window/2302.%20Count%20Subarrays%20with%20Score%20Less%20than%20K/) |
 
 </details>
 
