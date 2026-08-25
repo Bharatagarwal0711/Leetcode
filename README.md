@@ -7,9 +7,9 @@
 
 <p align="center">
   🟢 <b>Easy:</b> 84 &nbsp;&nbsp;|&nbsp;&nbsp;
-  🟡 <b>Medium:</b> 100 &nbsp;&nbsp;|&nbsp;&nbsp;
-  🔴 <b>Hard:</b> 10 &nbsp;&nbsp;|&nbsp;&nbsp;
-  📚 <b>Total:</b> 194
+  🟡 <b>Medium:</b> 106 &nbsp;&nbsp;|&nbsp;&nbsp;
+  🔴 <b>Hard:</b> 11 &nbsp;&nbsp;|&nbsp;&nbsp;
+  📚 <b>Total:</b> 201
 </p>
 
 ---
@@ -435,13 +435,20 @@
 ## 📁 Sliding Window 
 
 <details>
-<summary><b>3 Problem</b></summary>
+<summary><b>10 Problem</b></summary>
 
 | # | Problem | Difficulty | Solution |
 |:-:|---------|:----------:|:--------:|
 | 3 | Longest Substring without Repeating Characters | 🟡 Medium | [Code](./Sliding%20Window/3.%20Longest%20Substring%20without%20Repeating%20Characters/) |
+| 209 | Minimum Size Subarray Sum | 🟡 Medium | [Code](./Sliding%20Window/209.%20Minimum%20Size%20Subarray%20Sum/) |
 | 438 | Find All Anagrams in String | 🟡 Medium | [Code](./Sliding%20Window/438.%20Find%20All%20Anagrams%20in%20String/) |
 | 567 | Permutation in String | 🟡 Medium | [Code](./Sliding%20Window/567.%20Permutation%20in%20String/) |
+| 713 | Subarray Product less than K | 🟡 Medium | [Code](./Sliding%20Window/713.%20Subarray%20Product%20less%20than%20K/) |
+| 1004 | Max Consecutive Ones III | 🟡 Medium | [Code](./Sliding%20Window/1004.%20Max%20Consecutive%20Ones%20III/) |
+| 1052 | Grumpy BookStore Owner | 🟡 Medium | [Code](./Sliding%20Window/1052.%20Grumpy%20BookStore%20Owner/) |
+| 1343 | Number of Subarrays of size K and Threshold | 🟡 Medium | [Code](./Sliding%20Window/1343.%20Number%20of%20Subarrays%20of%20size%20K%20and%20Threshold/) |
+| 1493 | Longest Subarray of 1s after del 1 element | 🟡 Medium | [Code](./Sliding%20Window/1493.%20Longest%20Subarray%20of%201s%20after%20del%201%20element/) |
+| 2302 | Count Subarrays with Score Less than K | 🟡 Medium | [Code](./Sliding%20Window/2302.%20Count%20Subarrays%20with%20Score%20Less%20than%20K/) |
 
 </details>
 
