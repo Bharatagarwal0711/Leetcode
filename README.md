@@ -6,10 +6,10 @@
 </p>
 
 <p align="center">
-  🟢 <b>Easy:</b> 84 &nbsp;&nbsp;|&nbsp;&nbsp;
-  🟡 <b>Medium:</b> 106 &nbsp;&nbsp;|&nbsp;&nbsp;
+  🟢 <b>Easy:</b> 85 &nbsp;&nbsp;|&nbsp;&nbsp;
+  🟡 <b>Medium:</b> 110 &nbsp;&nbsp;|&nbsp;&nbsp;
   🔴 <b>Hard:</b> 11 &nbsp;&nbsp;|&nbsp;&nbsp;
-  📚 <b>Total:</b> 201
+  📚 <b>Total:</b> 206
 </p>
 
 ---
@@ -435,7 +435,7 @@
 ## 📁 Sliding Window 
 
 <details>
-<summary><b>10 Problem</b></summary>
+<summary><b>14 Problem</b></summary>
 
 | # | Problem | Difficulty | Solution |
 |:-:|---------|:----------:|:--------:|
@@ -443,11 +443,15 @@
 | 209 | Minimum Size Subarray Sum | 🟡 Medium | [Code](./Sliding%20Window/209.%20Minimum%20Size%20Subarray%20Sum/) |
 | 438 | Find All Anagrams in String | 🟡 Medium | [Code](./Sliding%20Window/438.%20Find%20All%20Anagrams%20in%20String/) |
 | 567 | Permutation in String | 🟡 Medium | [Code](./Sliding%20Window/567.%20Permutation%20in%20String/) |
+| 643 | Maximum Average Subarray I | 🟢 Easy | [Code](./Sliding%20Window/643.%20Maximum%20Average%20Subarray%20I/) |
 | 713 | Subarray Product less than K | 🟡 Medium | [Code](./Sliding%20Window/713.%20Subarray%20Product%20less%20than%20K/) |
+| 904 | Fruits Into Basket | 🟡 Medium | [Code](./Sliding%20Window/904.%20Fruits%20Into%20Basket/) |
 | 1004 | Max Consecutive Ones III | 🟡 Medium | [Code](./Sliding%20Window/1004.%20Max%20Consecutive%20Ones%20III/) |
 | 1052 | Grumpy BookStore Owner | 🟡 Medium | [Code](./Sliding%20Window/1052.%20Grumpy%20BookStore%20Owner/) |
 | 1343 | Number of Subarrays of size K and Threshold | 🟡 Medium | [Code](./Sliding%20Window/1343.%20Number%20of%20Subarrays%20of%20size%20K%20and%20Threshold/) |
+| 1456 | Maximum Number of Vowels in Substring | 🟡 Medium | [Code](./Sliding%20Window/1456.%20Maximum%20Number%20of%20Vowels%20in%20Substring/) |
 | 1493 | Longest Subarray of 1s after del 1 element | 🟡 Medium | [Code](./Sliding%20Window/1493.%20Longest%20Subarray%20of%201s%20after%20del%201%20element/) |
+| 1695 | Maximum Erasure Value | 🟡 Medium | [Code](./Sliding%20Window/1695.%20Maximum%20Erasure%20Value/) |
 | 2302 | Count Subarrays with Score Less than K | 🔴 Hard | [Code](./Sliding%20Window/2302.%20Count%20Subarrays%20with%20Score%20Less%20than%20K/) |
 
 </details>
@@ -488,7 +492,7 @@
 ## 📁 String 
 
 <details>
-<summary><b>7 Problems</b></summary>
+<summary><b>8 Problems</b></summary>
 
 | # | Problem | Difficulty | Solution |
 |:-:|---------|:----------:|:--------:|
@@ -496,6 +500,7 @@
 | 151 | Reverse Words in a String | 🟡 Medium | [Code](./String/151.%20Reverse%20Words%20in%20String/) |
 | 290 | Word Pattern | 🟢 Easy | [Code](./String/290.%20Word%20Pattern/) |
 | 387 | First Unique Character in a String | 🟢 Easy | [Code](./String/387.%20First%20Non%20Repeating%20char%20in%20String/) |
+| 451 | Sort Characters By Frequency | 🟡 Medium | [Code](./String/451.%20Sort%20Characters%20By%20Frequency/) |
 | 520 | Detect Capital | 🟢 Easy | [Code](./String/520.%20Detech%20Capital/) |
 | 1910 | Remove All Occurrences of a Substring | 🟡 Medium | [Code](./String/1910.%20Remove%20All%20Occurrence%20of%20Substr/) |
 | 2839 | Check If Strings can be made Equal with Operations I | 🟢 Easy | [Code](./String/2839.%20Check%20If%20Strings%20can%20be%20made%20Equal%20with%20Operations/) |
