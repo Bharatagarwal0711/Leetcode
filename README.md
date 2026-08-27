@@ -6,10 +6,10 @@
 </p>
 
 <p align="center">
-  🟢 <b>Easy:</b> 85 &nbsp;&nbsp;|&nbsp;&nbsp;
-  🟡 <b>Medium:</b> 110 &nbsp;&nbsp;|&nbsp;&nbsp;
+  🟢 <b>Easy:</b> 90 &nbsp;&nbsp;|&nbsp;&nbsp;
+  🟡 <b>Medium:</b> 112 &nbsp;&nbsp;|&nbsp;&nbsp;
   🔴 <b>Hard:</b> 11 &nbsp;&nbsp;|&nbsp;&nbsp;
-  📚 <b>Total:</b> 206
+  📚 <b>Total:</b> 213
 </p>
 
 ---
@@ -141,7 +141,7 @@
 ## 📁 Bit Manipulation 
 
 <details>
-<summary><b>5 Problems</b></summary>
+<summary><b>6 Problems</b></summary>
 
 | # | Problem | Difficulty | Solution |
 |:-:|---------|:----------:|:--------:|
@@ -150,6 +150,7 @@
 | 231 | Power of Two | 🟢 Easy | [Code](./Bit%20Manipulation/231.%20Power%20of%202/) |
 | 260 | Single Number III | 🟡 Medium | [Code](./Bit%20Manipulation/260.%20Single%20Number%20III/) |
 | 338 | Counting Bits | 🟢 Easy | [Code](./Bit%20Manipulation/338.%20Counting%20Bits/) |
+| 389 | Find the Difference | 🟢 Easy | [Code](./Bit%20Manipulation/389.%20Find%20the%20Difference/) |
 
 </details>
 
@@ -283,13 +284,14 @@
 ## 📁 Math 
 
 <details>
-<summary><b>10 Problems</b></summary>
+<summary><b>11 Problems</b></summary>
 
 | # | Problem | Difficulty | Solution |
 |:-:|---------|:----------:|:--------:|
 | 7 | Reverse Integer | 🟡 Medium | [Code](./Math/7.%20Reverse%20Integer/) |
 | 9 | Palindrome Number | 🟢 Easy | [Code](./Math/9.%20Palindrome%20Number/) |
 | 50 | Pow(x, n) | 🟡 Medium | [Code](./Math/50.%20Power%20(x,n)/) |
+| 66 | Plus One | 🟢 Easy | [Code](./Math/66.%20Plus%20One/) |
 | 202 | Happy Number | 🟢 Easy | [Code](./Math/202.%20Happy%20Number/) |
 | 204 | Count Primes | 🟡 Medium | [Code](./Math/204.%20Count%20Primes/) |
 | 263 | Ugly Number | 🟢 Easy | [Code](./Math/263.%20Ugly%20Number/) |
@@ -463,7 +465,7 @@
 ## 📁 Stack 
 
 <details>
-<summary><b>15 Problems</b></summary>
+<summary><b>16 Problems</b></summary>
 
 | # | Problem | Difficulty | Solution |
 |:-:|---------|:----------:|:--------:|
@@ -476,6 +478,7 @@
 | 496 | Next Greater Element I | 🟢 Easy | [Code](./Stack/496.%20Next%20Greater%20Element%20I/) |
 | 503 | Next Greater Element II | 🟡 Medium | [Code](./Stack/503.%20Next%20Greater%20Element%20II/) |
 | 682 | Baseball Game | 🟢 Easy | [Code](./Stack/682.%20BaseBall%20Game/) |
+| 735 | Asteroid Collision | 🟡 Medium | [Code](./Stack/735.%20Asteroid%20Collision/) |
 | 739 | Daily Temperatures | 🟡 Medium | [Code](./Stack/739.%20Daily%20Temperatures/) |
 | 901 | Online Stock Span | 🟡 Medium | [Code](./Stack/901.%20Online%20Stock%20Span/) |
 | 1019 | Next Greater Node In Linked List | 🟡 Medium | [Code](./Stack/1019.%20Next%20Greater%20Node%20in%20Linked%20List/) |
@@ -492,16 +495,19 @@
 ## 📁 String 
 
 <details>
-<summary><b>8 Problems</b></summary>
+<summary><b>11 Problems</b></summary>
 
 | # | Problem | Difficulty | Solution |
 |:-:|---------|:----------:|:--------:|
 | 14 | Longest Common Prefix | 🟢 Easy | [Code](./String/14.%20Longest%20Common%20prefix/) |
+| 58 | Length of Last Word | 🟢 Easy | [Code](./String/58.%20Length%20of%20Last%20Word/) |
 | 151 | Reverse Words in a String | 🟡 Medium | [Code](./String/151.%20Reverse%20Words%20in%20String/) |
 | 290 | Word Pattern | 🟢 Easy | [Code](./String/290.%20Word%20Pattern/) |
+| 383 | Ransome Note | 🟢 Easy | [Code](./String/383.%20Ransome%20Note/) |
 | 387 | First Unique Character in a String | 🟢 Easy | [Code](./String/387.%20First%20Non%20Repeating%20char%20in%20String/) |
 | 451 | Sort Characters By Frequency | 🟡 Medium | [Code](./String/451.%20Sort%20Characters%20By%20Frequency/) |
 | 520 | Detect Capital | 🟢 Easy | [Code](./String/520.%20Detech%20Capital/) |
+| 844 | Backspace String Compare | 🟢 Easy | [Code](./String/844.%20Backspace%20String%20Compare/) |
 | 1910 | Remove All Occurrences of a Substring | 🟡 Medium | [Code](./String/1910.%20Remove%20All%20Occurrence%20of%20Substr/) |
 | 2839 | Check If Strings can be made Equal with Operations I | 🟢 Easy | [Code](./String/2839.%20Check%20If%20Strings%20can%20be%20made%20Equal%20with%20Operations/) |
 
@@ -514,7 +520,7 @@
 ## 📁 Two Pointers 
 
 <details>
-<summary><b>15 Problems</b></summary>
+<summary><b>16 Problems</b></summary>
 
 | # | Problem | Difficulty | Solution |
 |:-:|---------|:----------:|:--------:|
@@ -532,6 +538,7 @@
 | 392 | Is Subsequence | 🟢 Easy | [Code](./Two%20Pointer/392.%20Is%20Subsequence/) |
 | 443 | String Compression | 🟡 Medium | [Code](./Two%20Pointer/443.%20String%20Compression/) |
 | 633 | Sum of Square Numbers | 🟡 Medium | [Code](./Two%20Pointer/633.%20Sum%20of%20Square%20Numbers/) |
+| 881 | Boats to Save People | 🟡 Medium | [Code](./Two%20Pointer/881.%20Boats%20to%20Save%20People/) |
 | 977 | Squares of a Sorted Array | 🟢 Easy | [Code](./Two%20Pointer/9777.%20Squares%20of%20a%20Sorted%20Array/) |
 
 </details>
