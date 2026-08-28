@@ -6,10 +6,10 @@
 </p>
 
 <p align="center">
-  🟢 <b>Easy:</b> 90 &nbsp;&nbsp;|&nbsp;&nbsp;
-  🟡 <b>Medium:</b> 112 &nbsp;&nbsp;|&nbsp;&nbsp;
+  🟢 <b>Easy:</b> 95 &nbsp;&nbsp;|&nbsp;&nbsp;
+  🟡 <b>Medium:</b> 113 &nbsp;&nbsp;|&nbsp;&nbsp;
   🔴 <b>Hard:</b> 11 &nbsp;&nbsp;|&nbsp;&nbsp;
-  📚 <b>Total:</b> 213
+  📚 <b>Total:</b> 219
 </p>
 
 ---
@@ -45,7 +45,7 @@
 ## 📁 Arrays
 
 <details>
-<summary><b>10 Problems </b></summary>
+<summary><b>11 Problems </b></summary>
 
 | # | Problem | Difficulty | Solution |
 |:-:|---------|:----------:|:--------:|
@@ -57,6 +57,7 @@
 | 349 | Intersection of Two Arrays | 🟢 Easy | [Code](./Arrays/349.%20Intersection%20of%20Two%20Arrays/) |
 | 350 | Intersection of Two Arrays II | 🟢 Easy | [Code](./Arrays/350.%20Intersection%20of%20Two%20Arrays%20II/) |
 | 485 | Max Consecutive Ones | 🟢 Easy | [Code](./Arrays/485.%20Max%20Consecutive%20Ones/) |
+| 674 | Longest Continuous Increasing Subsequence | 🟢 Easy | [Code](./Arrays/674.%20Longest%20Continuous%20Increasing%20Subsequence/) |
 | 2419 | Longest Subarray With Maximum Bitwise AND | 🟡 Medium | [Code](./Arrays/2419.%20Subarray%20with%20max%20%26%20value/) |
 | 3069 | Distribute Element in Two Arrays I | 🟢 Easy | [Code](./Arrays/3069.%20Distribute%20Element%20in%20Two%20Arrays%20I/) |
 
@@ -219,11 +220,12 @@
 ## 📁 Intervals 
 
 <details>
-<summary><b>1 Problem</b></summary>
+<summary><b>2 Problem</b></summary>
 
 | # | Problem | Difficulty | Solution |
 |:-:|---------|:----------:|:--------:|
 | 56 | Merge Intervals | 🟡 Medium | [Code](./Intervals/56.%20Merge%20Intervals/) |
+| 986 | Intervals List Intersection | 🟡 Medium | [Code](./Intervals/986.%20Intervals%20List%20Intersection/) |
 
 </details>
 
@@ -391,7 +393,7 @@
 ## 📁 Sets & Maps 
 
 <details>
-<summary><b>17 Problems</b></summary>
+<summary><b>18 Problems</b></summary>
 
 | # | Problem | Difficulty | Solution |
 |:-:|---------|:----------:|:--------:|
@@ -404,6 +406,7 @@
 | 347 | Top K Frequent Elements| 🟡 Medium | [Code](./Sets%20&%20Maps/347.%20Top%20k%20Frequent%20Elements/) |
 | 380 | Insert Delete GetRandom O(1) | 🟡 Medium | [Code](./Sets%20&%20Maps/380.%20Insert%20Delete%20GetRandom%20O(1)/) |
 | 560 | Subarray Sum Equals K | 🟡 Medium | [Code](./Sets%20&%20Maps/560.%20Subarray%20Sum%20Equals%20K/) |
+| 705 | Design HashSet | 🟢 Easy | [Code](./Sets%20&%20Maps/705.%20Design%20HashSet/) |
 | 1122 | Relative Sort Array | 🟢 Easy | [Code](./Sets%20&%20Maps/1122.%20Relative%20Sort%20Array/) |
 | 1207 | Unique Number of Occurrences | 🟢 Easy | [Code](./Sets%20&%20Maps/1207.%20Unique%20Number%20of%20Occurrences/) |
 | 1679 | Max Number of K-Sum Pairs | 🟡 Medium | [Code](./Sets%20&%20Maps/1679.%20Max%20Number%20of%20K-Sum%20Pairs/) |
@@ -495,7 +498,7 @@
 ## 📁 String 
 
 <details>
-<summary><b>11 Problems</b></summary>
+<summary><b>13 Problems</b></summary>
 
 | # | Problem | Difficulty | Solution |
 |:-:|---------|:----------:|:--------:|
@@ -505,8 +508,10 @@
 | 290 | Word Pattern | 🟢 Easy | [Code](./String/290.%20Word%20Pattern/) |
 | 383 | Ransome Note | 🟢 Easy | [Code](./String/383.%20Ransome%20Note/) |
 | 387 | First Unique Character in a String | 🟢 Easy | [Code](./String/387.%20First%20Non%20Repeating%20char%20in%20String/) |
+| 412 | Fuzz Buzz | 🟢 Easy | [Code](./String/412.%20Fuzz%20Buzz/) |
 | 451 | Sort Characters By Frequency | 🟡 Medium | [Code](./String/451.%20Sort%20Characters%20By%20Frequency/) |
 | 520 | Detect Capital | 🟢 Easy | [Code](./String/520.%20Detech%20Capital/) |
+| 657 | Robot Return To Origin | 🟢 Easy | [Code](./String/657.%20Robot%20Return%20To%20Origin/) |
 | 844 | Backspace String Compare | 🟢 Easy | [Code](./String/844.%20Backspace%20String%20Compare/) |
 | 1910 | Remove All Occurrences of a Substring | 🟡 Medium | [Code](./String/1910.%20Remove%20All%20Occurrence%20of%20Substr/) |
 | 2839 | Check If Strings can be made Equal with Operations I | 🟢 Easy | [Code](./String/2839.%20Check%20If%20Strings%20can%20be%20made%20Equal%20with%20Operations/) |
@@ -520,7 +525,7 @@
 ## 📁 Two Pointers 
 
 <details>
-<summary><b>16 Problems</b></summary>
+<summary><b>17 Problems</b></summary>
 
 | # | Problem | Difficulty | Solution |
 |:-:|---------|:----------:|:--------:|
@@ -538,6 +543,7 @@
 | 392 | Is Subsequence | 🟢 Easy | [Code](./Two%20Pointer/392.%20Is%20Subsequence/) |
 | 443 | String Compression | 🟡 Medium | [Code](./Two%20Pointer/443.%20String%20Compression/) |
 | 633 | Sum of Square Numbers | 🟡 Medium | [Code](./Two%20Pointer/633.%20Sum%20of%20Square%20Numbers/) |
+| 680 | Valid Palindrome II | 🟢 Easy | [Code](./Two%20Pointer/680.%20Valid%20Palindrome%20II/) |
 | 881 | Boats to Save People | 🟡 Medium | [Code](./Two%20Pointer/881.%20Boats%20to%20Save%20People/) |
 | 977 | Squares of a Sorted Array | 🟢 Easy | [Code](./Two%20Pointer/9777.%20Squares%20of%20a%20Sorted%20Array/) |
 
