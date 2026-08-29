@@ -6,10 +6,10 @@
 </p>
 
 <p align="center">
-  🟢 <b>Easy:</b> 95 &nbsp;&nbsp;|&nbsp;&nbsp;
-  🟡 <b>Medium:</b> 113 &nbsp;&nbsp;|&nbsp;&nbsp;
+  🟢 <b>Easy:</b> 99 &nbsp;&nbsp;|&nbsp;&nbsp;
+  🟡 <b>Medium:</b> 114 &nbsp;&nbsp;|&nbsp;&nbsp;
   🔴 <b>Hard:</b> 11 &nbsp;&nbsp;|&nbsp;&nbsp;
-  📚 <b>Total:</b> 219
+  📚 <b>Total:</b> 224
 </p>
 
 ---
@@ -204,13 +204,14 @@
 ## 📁 Greedy 
 
 <details>
-<summary><b>4 Problems</b></summary>
+<summary><b>5 Problems</b></summary>
 
 | # | Problem | Difficulty | Solution |
 |:-:|---------|:----------:|:--------:|
 | 134 | Gas Station | 🟡 Medium | [Code](./Greedy/134.%20Gas%20Station/) |
 | 455 | Assign Cookies | 🟢 Easy | [Code](./Greedy/455.%20Assign%20Cookies/) |
 | 861 | Score After Flipping Matrix | 🟡 Medium | [Code](./Greedy/861.%20Score%20After%20Flipping/) |
+| 1013 | Partition Array into Three Parts of Equal Sum | 🟢 Easy | [Code](./Greedy/1013.%20Partition%20Array%20into%20Three%20Parts%20of%20Equal%20Sum/) |
 | 1402 | Reducing Dishes | 🔴 Hard | [Code](./Greedy/1402.%20Reducing%20Dishes/) |
 
 </details>
@@ -440,7 +441,7 @@
 ## 📁 Sliding Window 
 
 <details>
-<summary><b>14 Problem</b></summary>
+<summary><b>15 Problem</b></summary>
 
 | # | Problem | Difficulty | Solution |
 |:-:|---------|:----------:|:--------:|
@@ -453,6 +454,7 @@
 | 904 | Fruits Into Basket | 🟡 Medium | [Code](./Sliding%20Window/904.%20Fruits%20Into%20Basket/) |
 | 1004 | Max Consecutive Ones III | 🟡 Medium | [Code](./Sliding%20Window/1004.%20Max%20Consecutive%20Ones%20III/) |
 | 1052 | Grumpy BookStore Owner | 🟡 Medium | [Code](./Sliding%20Window/1052.%20Grumpy%20BookStore%20Owner/) |
+| 1208 | Get Equal Substrings within Budget | 🟡 Medium | [Code](./Sliding%20Window/1208.%20Get%20Equal%20Substrings%20within%20Budget/) |
 | 1343 | Number of Subarrays of size K and Threshold | 🟡 Medium | [Code](./Sliding%20Window/1343.%20Number%20of%20Subarrays%20of%20size%20K%20and%20Threshold/) |
 | 1456 | Maximum Number of Vowels in Substring | 🟡 Medium | [Code](./Sliding%20Window/1456.%20Maximum%20Number%20of%20Vowels%20in%20Substring/) |
 | 1493 | Longest Subarray of 1s after del 1 element | 🟡 Medium | [Code](./Sliding%20Window/1493.%20Longest%20Subarray%20of%201s%20after%20del%201%20element/) |
@@ -498,7 +500,7 @@
 ## 📁 String 
 
 <details>
-<summary><b>13 Problems</b></summary>
+<summary><b>14 Problems</b></summary>
 
 | # | Problem | Difficulty | Solution |
 |:-:|---------|:----------:|:--------:|
@@ -512,6 +514,7 @@
 | 451 | Sort Characters By Frequency | 🟡 Medium | [Code](./String/451.%20Sort%20Characters%20By%20Frequency/) |
 | 520 | Detect Capital | 🟢 Easy | [Code](./String/520.%20Detech%20Capital/) |
 | 657 | Robot Return To Origin | 🟢 Easy | [Code](./String/657.%20Robot%20Return%20To%20Origin/) |
+| 771 | Jewels and Stones | 🟢 Easy | [Code](./String/771.%20Jewels%20and%20Stones/) |
 | 844 | Backspace String Compare | 🟢 Easy | [Code](./String/844.%20Backspace%20String%20Compare/) |
 | 1910 | Remove All Occurrences of a Substring | 🟡 Medium | [Code](./String/1910.%20Remove%20All%20Occurrence%20of%20Substr/) |
 | 2839 | Check If Strings can be made Equal with Operations I | 🟢 Easy | [Code](./String/2839.%20Check%20If%20Strings%20can%20be%20made%20Equal%20with%20Operations/) |
@@ -525,7 +528,7 @@
 ## 📁 Two Pointers 
 
 <details>
-<summary><b>17 Problems</b></summary>
+<summary><b>19 Problems</b></summary>
 
 | # | Problem | Difficulty | Solution |
 |:-:|---------|:----------:|:--------:|
@@ -540,11 +543,13 @@
 | 167 | Two Sum II - | 🟡 Medium | [Code](./Two%20Pointer/167.%20Two%20Sum%20II/) |
 | 283 | Move Zeros | 🟢 Easy | [Code](./Two%20Pointer/283.%20Move%20Zeros/) |
 | 344 | Reverse String | 🟢 Easy | [Code](./Two%20Pointer/344.%20Reverse%20String/) |
+| 345 | Reverse Vowels of a String | 🟢 Easy | [Code](./Two%20Pointer/345.%20Reverse%20Vowels%20of%20a%20String/) |
 | 392 | Is Subsequence | 🟢 Easy | [Code](./Two%20Pointer/392.%20Is%20Subsequence/) |
 | 443 | String Compression | 🟡 Medium | [Code](./Two%20Pointer/443.%20String%20Compression/) |
 | 633 | Sum of Square Numbers | 🟡 Medium | [Code](./Two%20Pointer/633.%20Sum%20of%20Square%20Numbers/) |
 | 680 | Valid Palindrome II | 🟢 Easy | [Code](./Two%20Pointer/680.%20Valid%20Palindrome%20II/) |
 | 881 | Boats to Save People | 🟡 Medium | [Code](./Two%20Pointer/881.%20Boats%20to%20Save%20People/) |
+| 905 | Sort Array by Parity | 🟢 Easy | [Code](./Two%20Pointer/905.%20Sort%20Array%20by%20Parity/) |
 | 977 | Squares of a Sorted Array | 🟢 Easy | [Code](./Two%20Pointer/9777.%20Squares%20of%20a%20Sorted%20Array/) |
 
 </details>
