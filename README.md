@@ -6,10 +6,10 @@
 </p>
 
 <p align="center">
-  🟢 <b>Easy:</b> 99 &nbsp;&nbsp;|&nbsp;&nbsp;
-  🟡 <b>Medium:</b> 114 &nbsp;&nbsp;|&nbsp;&nbsp;
+  🟢 <b>Easy:</b> 101 &nbsp;&nbsp;|&nbsp;&nbsp;
+  🟡 <b>Medium:</b> 119 &nbsp;&nbsp;|&nbsp;&nbsp;
   🔴 <b>Hard:</b> 11 &nbsp;&nbsp;|&nbsp;&nbsp;
-  📚 <b>Total:</b> 224
+  📚 <b>Total:</b> 231
 </p>
 
 ---
@@ -394,7 +394,7 @@
 ## 📁 Sets & Maps 
 
 <details>
-<summary><b>18 Problems</b></summary>
+<summary><b>20 Problems</b></summary>
 
 | # | Problem | Difficulty | Solution |
 |:-:|---------|:----------:|:--------:|
@@ -407,7 +407,9 @@
 | 347 | Top K Frequent Elements| 🟡 Medium | [Code](./Sets%20&%20Maps/347.%20Top%20k%20Frequent%20Elements/) |
 | 380 | Insert Delete GetRandom O(1) | 🟡 Medium | [Code](./Sets%20&%20Maps/380.%20Insert%20Delete%20GetRandom%20O(1)/) |
 | 560 | Subarray Sum Equals K | 🟡 Medium | [Code](./Sets%20&%20Maps/560.%20Subarray%20Sum%20Equals%20K/) |
+| 692 | Top K Frequent Words | 🟡 Medium | [Code](./Sets%20&%20Maps/692.%20Top%20K%20Frequent%20Words/) |
 | 705 | Design HashSet | 🟢 Easy | [Code](./Sets%20&%20Maps/705.%20Design%20HashSet/) |
+| 981 | Time Based Key-Value Store | 🟡 Medium | [Code](./Sets%20&%20Maps/981.%20Time%20Based%20Key%20Value%20Store/) |
 | 1122 | Relative Sort Array | 🟢 Easy | [Code](./Sets%20&%20Maps/1122.%20Relative%20Sort%20Array/) |
 | 1207 | Unique Number of Occurrences | 🟢 Easy | [Code](./Sets%20&%20Maps/1207.%20Unique%20Number%20of%20Occurrences/) |
 | 1679 | Max Number of K-Sum Pairs | 🟡 Medium | [Code](./Sets%20&%20Maps/1679.%20Max%20Number%20of%20K-Sum%20Pairs/) |
@@ -441,7 +443,7 @@
 ## 📁 Sliding Window 
 
 <details>
-<summary><b>15 Problem</b></summary>
+<summary><b>16 Problem</b></summary>
 
 | # | Problem | Difficulty | Solution |
 |:-:|---------|:----------:|:--------:|
@@ -458,6 +460,7 @@
 | 1343 | Number of Subarrays of size K and Threshold | 🟡 Medium | [Code](./Sliding%20Window/1343.%20Number%20of%20Subarrays%20of%20size%20K%20and%20Threshold/) |
 | 1456 | Maximum Number of Vowels in Substring | 🟡 Medium | [Code](./Sliding%20Window/1456.%20Maximum%20Number%20of%20Vowels%20in%20Substring/) |
 | 1493 | Longest Subarray of 1s after del 1 element | 🟡 Medium | [Code](./Sliding%20Window/1493.%20Longest%20Subarray%20of%201s%20after%20del%201%20element/) |
+| 1658 | Minimum Operations to Reduce X to Zero | 🟡 Medium | [Code](./Sliding%20Window/1658.%20Minimum%20Operations%20to%20Reduce%20X%20to%20Zero/) |
 | 1695 | Maximum Erasure Value | 🟡 Medium | [Code](./Sliding%20Window/1695.%20Maximum%20Erasure%20Value/) |
 | 2302 | Count Subarrays with Score Less than K | 🔴 Hard | [Code](./Sliding%20Window/2302.%20Count%20Subarrays%20with%20Score%20Less%20than%20K/) |
 
@@ -470,7 +473,7 @@
 ## 📁 Stack 
 
 <details>
-<summary><b>16 Problems</b></summary>
+<summary><b>17 Problems</b></summary>
 
 | # | Problem | Difficulty | Solution |
 |:-:|---------|:----------:|:--------:|
@@ -480,6 +483,7 @@
 | 155 | Min Stack | 🟡 Medium | [Code](./Stack/155.%20Min%20Stack/) |
 | 225 | Implement Stack using Queues | 🟢 Easy | [Code](./Stack/225.%20Stack%20using%20Queues/) |
 | 277 | Find the Celebrity | 🟡 Medium | [Code](./Stack/277.%20Celebrity%20Problem/) |
+| 402 | Remove K Digits | 🟡 Medium | [Code](./Stack/402.%20Remove%20K%20Digits/) |
 | 496 | Next Greater Element I | 🟢 Easy | [Code](./Stack/496.%20Next%20Greater%20Element%20I/) |
 | 503 | Next Greater Element II | 🟡 Medium | [Code](./Stack/503.%20Next%20Greater%20Element%20II/) |
 | 682 | Baseball Game | 🟢 Easy | [Code](./Stack/682.%20BaseBall%20Game/) |
@@ -500,7 +504,7 @@
 ## 📁 String 
 
 <details>
-<summary><b>14 Problems</b></summary>
+<summary><b>15 Problems</b></summary>
 
 | # | Problem | Difficulty | Solution |
 |:-:|---------|:----------:|:--------:|
@@ -517,6 +521,7 @@
 | 771 | Jewels and Stones | 🟢 Easy | [Code](./String/771.%20Jewels%20and%20Stones/) |
 | 844 | Backspace String Compare | 🟢 Easy | [Code](./String/844.%20Backspace%20String%20Compare/) |
 | 1910 | Remove All Occurrences of a Substring | 🟡 Medium | [Code](./String/1910.%20Remove%20All%20Occurrence%20of%20Substr/) |
+| 2351 | First Letter to Appear Twice | 🟢 Easy | [Code](./String/2351.%20First%20Letter%20to%20Appear%20Twice/) |
 | 2839 | Check If Strings can be made Equal with Operations I | 🟢 Easy | [Code](./String/2839.%20Check%20If%20Strings%20can%20be%20made%20Equal%20with%20Operations/) |
 
 </details>
@@ -528,7 +533,7 @@
 ## 📁 Two Pointers 
 
 <details>
-<summary><b>19 Problems</b></summary>
+<summary><b>21 Problems</b></summary>
 
 | # | Problem | Difficulty | Solution |
 |:-:|---------|:----------:|:--------:|
@@ -537,9 +542,11 @@
 | 18 | 4Sum | 🟡 Medium | [Code](./Two%20Pointer/18.%20Four%20Sum/) |
 | 26 | Remove Duplicates From Sorted Array | 🟢 Easy | [Code](./Two%20Pointer/26.%20Remove%20Duplicates%20From%20Sorted%20Array/) |
 | 27 | Remove Element | 🟢 Easy | [Code](./Two%20Pointer/27.%20Remove%20Element/) |
+| 28 | Find the Index of the First Occurrence in a String | 🟢 Easy | [Code](./Two%20Pointer/28.%20Find%20the%20Index%20of%20the%%20Occurrence%20in%20a%20String/) |
 | 42 | Trapping Rain Water | 🔴 Hard | [Code](./Two%20Pointer/42.%20Trapping%20Rainwater/) |
 | 75 | Sort Colors | 🟡 Medium | [Code](./Two%20Pointer/75.%20Sort%20Colors/) |
 | 125 | Valid Palindrome | 🟢 Easy | [Code](./Two%20Pointer/125.%20Valid%20Palindrome/) |
+| 165 | Compare Version Numbers | 🟡 Medium | [Code](./Two%20Pointer/165.%20Compare%20Version%20Numbers/) |
 | 167 | Two Sum II - | 🟡 Medium | [Code](./Two%20Pointer/167.%20Two%20Sum%20II/) |
 | 283 | Move Zeros | 🟢 Easy | [Code](./Two%20Pointer/283.%20Move%20Zeros/) |
 | 344 | Reverse String | 🟢 Easy | [Code](./Two%20Pointer/344.%20Reverse%20String/) |
