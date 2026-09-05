@@ -6,10 +6,10 @@
 </p>
 
 <p align="center">
-  🟢 <b>Easy:</b> 108 &nbsp;&nbsp;|&nbsp;&nbsp;
+  🟢 <b>Easy:</b> 116 &nbsp;&nbsp;|&nbsp;&nbsp;
   🟡 <b>Medium:</b> 120 &nbsp;&nbsp;|&nbsp;&nbsp;
   🔴 <b>Hard:</b> 11 &nbsp;&nbsp;|&nbsp;&nbsp;
-  📚 <b>Total:</b> 239
+  📚 <b>Total:</b> 247
 </p>
 
 ---
@@ -46,7 +46,7 @@
 ## 📁 Arrays
 
 <details>
-<summary><b>12 Problems </b></summary>
+<summary><b>14 Problems </b></summary>
 
 | # | Problem | Difficulty | Solution |
 |:-:|---------|:----------:|:--------:|
@@ -55,8 +55,10 @@
 | 88 | Merge Sorted Arrays | 🟢 Easy | [Code](./Arrays/88.%20Merge%20Sorted%20Arrays/) |
 | 169 | Majority Element | 🟢 Easy | [Code](./Arrays/169.%20Majority%20Element/) |
 | 189 | Rotate Array By K Steps | 🟡 Medium | [Code](./Arrays/189.%20Rotate%20Array%20By%20K%20Steps/) |
+| 228 | Summary Ranges | 🟢 Easy | [Code](./Arrays/228.%20Summary%20Ranges/) |
 | 349 | Intersection of Two Arrays | 🟢 Easy | [Code](./Arrays/349.%20Intersection%20of%20Two%20Arrays/) |
 | 350 | Intersection of Two Arrays II | 🟢 Easy | [Code](./Arrays/350.%20Intersection%20of%20Two%20Arrays%20II/) |
+| 414 | Third Maximum Number | 🟢 Easy | [Code](./Arrays/414.%20Third%20Maximum%20Number/) |
 | 485 | Max Consecutive Ones | 🟢 Easy | [Code](./Arrays/485.%20Max%20Consecutive%20Ones/) |
 | 674 | Longest Continuous Increasing Subsequence | 🟢 Easy | [Code](./Arrays/674.%20Longest%20Continuous%20Increasing%20Subsequence/) |
 | 941 | Valid Mountain Array | 🟢 Easy | [Code](./Arrays/941.%20Valid%20Mountain%20Array/) |
@@ -86,7 +88,7 @@
 ## 📁 Binary Search 
 
 <details>
-<summary><b> 19 Problems</b></summary>
+<summary><b> 20 Problems</b></summary>
 
 | # | Problem | Difficulty | Solution |
 |:-:|---------|:----------:|:--------:|
@@ -102,6 +104,7 @@
 | 278 | First Bad Version | 🟢 Easy | [Code](./Binary%20Search/278.%20First%20Bad%20Version/) |
 | 374 | Guess Number Higher or Lower | 🟢 Easy | [Code](./Binary%20Search/374.%20Guess%20Number%20Higher%20or%20Lower/) |
 | 410 | Split Array Largest Sum | 🔴 Hard | [Code](./Binary%20Search/410.%20Split%20Array%20Largest%20Sum/) |
+| 441 | Arranging Coins | 🟢 Easy | [Code](./Binary%20Search/441.%20Arranging%20Coins/) |
 | 540 | Single Element in a Sorted Array | 🟡 Medium | [Code](./Binary%20Search/540.%20Single%20Element%20in%20Sorted%20Array/) |
 | 658 | Find K Closest Elements | 🟡 Medium | [Code](./Binary%20Search/658.%20K%20Closest%20Elements/) |
 | 704 | Binary Search | 🟢 Easy | [Code](./Binary%20Search/704.%20Binary%20Search/) |
@@ -290,7 +293,7 @@
 ## 📁 Math 
 
 <details>
-<summary><b>11 Problems</b></summary>
+<summary><b>14 Problems</b></summary>
 
 | # | Problem | Difficulty | Solution |
 |:-:|---------|:----------:|:--------:|
@@ -300,7 +303,10 @@
 | 66 | Plus One | 🟢 Easy | [Code](./Math/66.%20Plus%20One/) |
 | 202 | Happy Number | 🟢 Easy | [Code](./Math/202.%20Happy%20Number/) |
 | 204 | Count Primes | 🟡 Medium | [Code](./Math/204.%20Count%20Primes/) |
+| 258 | Add Digits | 🟢 Easy | [Code](./Math/258.%20Add%20Digits/) |
 | 263 | Ugly Number | 🟢 Easy | [Code](./Math/263.%20Ugly%20Number/) |
+| 326 | Power of Three | 🟢 Easy | [Code](./Math/326.%20Power%20of%20Three/) |
+| 342 | Power of Four | 🟢 Easy | [Code](./Math/342.%20Power%20of%20Four/) |
 | 507 | Perfect Number | 🟢 Easy | [Code](./Math/507.%20Perfect%20Number/) |
 | 1281 | Subtract the Product and Sum of Digits of an Integer | 🟢 Easy | [Code](./Math/1281.%20Product%20&%20Sum%20of%20Digit%20Diff/) |
 | 2507 | Smallest Value After Replacing With Sum of Prime Factors | 🟡 Medium | [Code](./Math/2507.%20Small%20val%20after%20replacing%20with%20su.../) |
@@ -525,7 +531,7 @@
 ## 📁 String 
 
 <details>
-<summary><b>15 Problems</b></summary>
+<summary><b>17 Problems</b></summary>
 
 | # | Problem | Difficulty | Solution |
 |:-:|---------|:----------:|:--------:|
@@ -536,6 +542,8 @@
 | 383 | Ransome Note | 🟢 Easy | [Code](./String/383.%20Ransome%20Note/) |
 | 387 | First Unique Character in a String | 🟢 Easy | [Code](./String/387.%20First%20Non%20Repeating%20char%20in%20String/) |
 | 412 | Fuzz Buzz | 🟢 Easy | [Code](./String/412.%20Fuzz%20Buzz/) |
+| 415 | Add Strings | 🟢 Easy | [Code](./String/415.%20Add%20Strings/) |
+| 434 | Number of Segments in a String | 🟢 Easy | [Code](./String/434.%20Number%20of%20Segments%20in%20a%20String/) |
 | 451 | Sort Characters By Frequency | 🟡 Medium | [Code](./String/451.%20Sort%20Characters%20By%20Frequency/) |
 | 520 | Detect Capital | 🟢 Easy | [Code](./String/520.%20Detech%20Capital/) |
 | 657 | Robot Return To Origin | 🟢 Easy | [Code](./String/657.%20Robot%20Return%20To%20Origin/) |
