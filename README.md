@@ -6,10 +6,10 @@
 </p>
 
 <p align="center">
-  🟢 <b>Easy:</b> 101 &nbsp;&nbsp;|&nbsp;&nbsp;
-  🟡 <b>Medium:</b> 119 &nbsp;&nbsp;|&nbsp;&nbsp;
+  🟢 <b>Easy:</b> 108 &nbsp;&nbsp;|&nbsp;&nbsp;
+  🟡 <b>Medium:</b> 120 &nbsp;&nbsp;|&nbsp;&nbsp;
   🔴 <b>Hard:</b> 11 &nbsp;&nbsp;|&nbsp;&nbsp;
-  📚 <b>Total:</b> 231
+  📚 <b>Total:</b> 239
 </p>
 
 ---
@@ -30,6 +30,7 @@
 - 📁 [Matrix](./Matrix/)
 - 📁 [Merge Sort](./Merge%20Sort/)
 - 📁 [Prefix Sum](./Prefix%20Sum/)
+- 📁 [Priority Queue](./Priority%20Queue/)
 - 📁 [Queue](./Queue/)
 - 📁 [Sets & Maps](./Sets%20&%20Maps/)
 - 📁 [Simulation](./Simulation/)
@@ -45,7 +46,7 @@
 ## 📁 Arrays
 
 <details>
-<summary><b>11 Problems </b></summary>
+<summary><b>12 Problems </b></summary>
 
 | # | Problem | Difficulty | Solution |
 |:-:|---------|:----------:|:--------:|
@@ -58,6 +59,7 @@
 | 350 | Intersection of Two Arrays II | 🟢 Easy | [Code](./Arrays/350.%20Intersection%20of%20Two%20Arrays%20II/) |
 | 485 | Max Consecutive Ones | 🟢 Easy | [Code](./Arrays/485.%20Max%20Consecutive%20Ones/) |
 | 674 | Longest Continuous Increasing Subsequence | 🟢 Easy | [Code](./Arrays/674.%20Longest%20Continuous%20Increasing%20Subsequence/) |
+| 941 | Valid Mountain Array | 🟢 Easy | [Code](./Arrays/941.%20Valid%20Mountain%20Array/) |
 | 2419 | Longest Subarray With Maximum Bitwise AND | 🟡 Medium | [Code](./Arrays/2419.%20Subarray%20with%20max%20%26%20value/) |
 | 3069 | Distribute Element in Two Arrays I | 🟢 Easy | [Code](./Arrays/3069.%20Distribute%20Element%20in%20Two%20Arrays%20I/) |
 
@@ -84,7 +86,7 @@
 ## 📁 Binary Search 
 
 <details>
-<summary><b> 18 Problems</b></summary>
+<summary><b> 19 Problems</b></summary>
 
 | # | Problem | Difficulty | Solution |
 |:-:|---------|:----------:|:--------:|
@@ -98,6 +100,7 @@
 | 162 | Find Peak Element | 🟡 Medium | [Code](./Binary%20Search/162.%20Find%20Peak%20Element/) |
 | 240 | Search in a 2D Matrix II | 🟡 Medium | [Code](./Binary%20Search/240.%20Search%20in%20a%202D%20Matirx%20II/) |
 | 278 | First Bad Version | 🟢 Easy | [Code](./Binary%20Search/278.%20First%20Bad%20Version/) |
+| 374 | Guess Number Higher or Lower | 🟢 Easy | [Code](./Binary%20Search/374.%20Guess%20Number%20Higher%20or%20Lower/) |
 | 410 | Split Array Largest Sum | 🔴 Hard | [Code](./Binary%20Search/410.%20Split%20Array%20Largest%20Sum/) |
 | 540 | Single Element in a Sorted Array | 🟡 Medium | [Code](./Binary%20Search/540.%20Single%20Element%20in%20Sorted%20Array/) |
 | 658 | Find K Closest Elements | 🟡 Medium | [Code](./Binary%20Search/658.%20K%20Closest%20Elements/) |
@@ -368,6 +371,22 @@
 </details>
 
 ---
+<a id="priority-queue"></a>
+
+## 📁 Priority Queue
+
+<details>
+<summary><b>3 Problems</b></summary>
+
+| # | Problem | Difficulty | Solution |
+|:-:|---------|:----------:|:--------:|
+| 215 | Kth Largest Element in an Array | 🟡 Medium | [Code](./Priority%20Queue/215.%20Kth%20Largest%20Element%20in%20an%20Array/) |
+| 506 | Relative Ranks | 🟢 Easy | [Code](./Priority%20Queue/506.%20Relative%20Ranks/) |
+| 703 | Kth Largest Element in a Stream | 🟢 Easy | [Code](./Priority%20Queue/703.%20Kth%20Largest%20Element%20in%20a%20Stream/) |
+
+</details>
+
+---
 
 <a id="queue"></a>
 
@@ -394,7 +413,7 @@
 ## 📁 Sets & Maps 
 
 <details>
-<summary><b>20 Problems</b></summary>
+<summary><b>22 Problems</b></summary>
 
 | # | Problem | Difficulty | Solution |
 |:-:|---------|:----------:|:--------:|
@@ -406,7 +425,9 @@
 | 242 | Valid Anagram | 🟢 Easy | [Code](./Sets%20&%20Maps/242.%20Valid%20Anagram/) |
 | 347 | Top K Frequent Elements| 🟡 Medium | [Code](./Sets%20&%20Maps/347.%20Top%20k%20Frequent%20Elements/) |
 | 380 | Insert Delete GetRandom O(1) | 🟡 Medium | [Code](./Sets%20&%20Maps/380.%20Insert%20Delete%20GetRandom%20O(1)/) |
+| 409 | Longest Palindrome | 🟢 Easy | [Code](./Sets%20&%20Maps/409.%20Longest%20Palindrome/) |
 | 560 | Subarray Sum Equals K | 🟡 Medium | [Code](./Sets%20&%20Maps/560.%20Subarray%20Sum%20Equals%20K/) |
+| 599 | Minimum Index Sum of Two Lists | 🟢 Easy | [Code](./Sets%20&%20Maps/560.%20Minimum%20Index%20Sum%20of%20Two%20Lists/) |
 | 692 | Top K Frequent Words | 🟡 Medium | [Code](./Sets%20&%20Maps/692.%20Top%20K%20Frequent%20Words/) |
 | 705 | Design HashSet | 🟢 Easy | [Code](./Sets%20&%20Maps/705.%20Design%20HashSet/) |
 | 981 | Time Based Key-Value Store | 🟡 Medium | [Code](./Sets%20&%20Maps/981.%20Time%20Based%20Key%20Value%20Store/) |
@@ -533,7 +554,7 @@
 ## 📁 Two Pointers 
 
 <details>
-<summary><b>21 Problems</b></summary>
+<summary><b>22 Problems</b></summary>
 
 | # | Problem | Difficulty | Solution |
 |:-:|---------|:----------:|:--------:|
@@ -557,6 +578,7 @@
 | 680 | Valid Palindrome II | 🟢 Easy | [Code](./Two%20Pointer/680.%20Valid%20Palindrome%20II/) |
 | 881 | Boats to Save People | 🟡 Medium | [Code](./Two%20Pointer/881.%20Boats%20to%20Save%20People/) |
 | 905 | Sort Array by Parity | 🟢 Easy | [Code](./Two%20Pointer/905.%20Sort%20Array%20by%20Parity/) |
+| 917 | Reverse Only Letters | 🟢 Easy | [Code](./Two%20Pointer/917.%20Sort%20Reverse%20Only%20Letters/) |
 | 977 | Squares of a Sorted Array | 🟢 Easy | [Code](./Two%20Pointer/9777.%20Squares%20of%20a%20Sorted%20Array/) |
 
 </details>
